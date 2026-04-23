@@ -4,10 +4,10 @@
 
 ## 行业研究
 
--   [具身智能技术路线：VLA / VLM / World Model](01_行业研究/具身智能技术路线_VLA_VLM_World_Model.md)
--   [Sim2Real 与仿真平台：Isaac / MuJoCo / Genesis](01_行业研究/Sim2Real与仿真平台_Isaac_MuJoCo_Genesis.md)
--   [数据采集：遥操作 / 仿真 / 真机](01_行业研究/具身智能数据采集_遥操作_仿真_真机.md)
--   [具身智能评测基准](01_行业研究/具身智能评测基准.md)
+-   [具身智能技术路线：VLA / VLM / World Model](01_行业研究/技术路线.md)
+-   [Sim2Real 与仿真平台：Isaac / MuJoCo / Genesis](01_行业研究/Sim2Real与仿真平台.md)
+-   [数据采集：遥操作 / 仿真 / 真机](01_行业研究/数据采集.md)
+-   [具身智能评测基准](01_行业研究/评测基准.md)
 
 ## 公司调研
 

@@ -45,7 +45,7 @@
 | **Sonnet** | 性价比旗舰，**编程与 Agent 主力** | 中端 |
 | **Haiku** | 轻量、低成本、高吞吐 | 低端 |
 
-详见 [Claude 家族产品调研](../03_产品调研/Claude家族_Opus_Sonnet_Haiku.md)。
+详见 [Claude 家族产品调研](../03_产品调研/Claude家族.md)。
 
 ### 应用产品
 
@@ -175,14 +175,14 @@
 ## 九、延伸阅读
 
 **产品级**：
-- [Claude 家族：Opus / Sonnet / Haiku](../03_产品调研/Claude家族_Opus_Sonnet_Haiku.md)
+- [Claude 家族：Opus / Sonnet / Haiku](../03_产品调研/Claude家族.md)
 - [Claude Code](../03_产品调研/Claude_Code.md)
 - [Claude for Financial Analysis](../../04_AI金融/03_产品调研/Claude_for_Financial_Analysis.md)
 
 **行业层**：
-- [2026 年 AI 行业格局总览](../01_行业研究/2026年AI行业格局总览.md)
-- [推理模型专题](../01_行业研究/推理模型专题_从o1到R1到Claude_Sonnet_4_6.md)
-- [AI Agent 行业现状与路线分歧](../01_行业研究/AI_Agent行业现状与路线分歧.md)
+- [2026 年 AI 行业格局总览](../01_行业研究/AI行业格局2026.md)
+- [推理模型专题](../01_行业研究/推理模型专题.md)
+- [AI Agent 行业现状与路线分歧](../01_行业研究/Agent行业现状.md)
 
 **直接对标**：
 - [OpenAI](OpenAI.md)
