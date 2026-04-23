@@ -40,7 +40,7 @@
 - **ChatGPT 订阅**：Free / Plus ($20/月) / Pro ($200/月) / Team / Enterprise
 - **ChatGPT Search**、**Canvas**、**Projects**、**Memory**、**Voice Mode**、**Agent Mode**
 - **Sora**（文生视频）、**DALL-E**（文生图）、**GPT Store**（custom GPTs）
-- 详见 [ChatGPT 与 Codex](../03_产品调研/ChatGPT.md) · [Sora](../03_产品调研/Sora.md)
+- 详见 [ChatGPT 与 Codex](../03_产品研究/ChatGPT.md) · [Sora](../03_产品研究/Sora.md)
 
 ### 开发者 / 企业
 - **OpenAI API**：GPT-5、o-series、Realtime、Assistants/Responses
@@ -172,8 +172,8 @@
 ## 九、延伸阅读
 
 **产品级**：
-- [ChatGPT 与 Codex](../03_产品调研/ChatGPT.md)
-- [Sora](../03_产品调研/Sora.md)
+- [ChatGPT 与 Codex](../03_产品研究/ChatGPT.md)
+- [Sora](../03_产品研究/Sora.md)
 
 **行业层**：
 - [2026 年 AI 行业格局总览](../01_行业研究/AI行业格局2026.md)
@@ -187,7 +187,7 @@
 - [DeepSeek](DeepSeek.md)
 
 **交叉**：
-- [ChatGPT 作为互联网入口的演变](../../05_AI互联网/03_产品调研/ChatGPT作为入口.md)
+- [ChatGPT 作为互联网入口的演变](../../05_AI互联网/03_产品研究/ChatGPT作为入口.md)
 - [生成式搜索革命](../../05_AI互联网/01_行业研究/生成式搜索革命.md)
 
 ---

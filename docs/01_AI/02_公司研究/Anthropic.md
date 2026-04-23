@@ -45,18 +45,18 @@
 | **Sonnet** | 性价比旗舰，**编程与 Agent 主力** | 中端 |
 | **Haiku** | 轻量、低成本、高吞吐 | 低端 |
 
-详见 [Claude 家族产品调研](../03_产品调研/Claude家族.md)。
+详见 [Claude 家族产品调研](../03_产品研究/Claude家族.md)。
 
 ### 应用产品
 
 - **Claude.ai**（Web / Desktop / Mobile）—— 消费级订阅
-- **Claude Code**（CLI）—— **Coding agent**，是 2025 年爆发增长的独立产品线。详见 [Claude Code 产品调研](../03_产品调研/Claude_Code.md)
+- **Claude Code**（CLI）—— **Coding agent**，是 2025 年爆发增长的独立产品线。详见 [Claude Code 产品调研](../03_产品研究/Claude_Code.md)
 - **Claude for Enterprise**—— 企业版，含 SSO、审计、专属容量
 - **Claude API**—— B2B 主收入入口
 
 ### 面向金融的垂直产品
 
-2025 年推出 [Claude for Financial Analysis](../../04_AI金融/03_产品调研/Claude_for_Financial_Analysis.md)，针对买方 / 卖方研究场景。
+2025 年推出 [Claude for Financial Analysis](../../04_AI金融/03_产品研究/Claude_for_Financial_Analysis.md)，针对买方 / 卖方研究场景。
 
 ---
 
@@ -175,9 +175,9 @@
 ## 九、延伸阅读
 
 **产品级**：
-- [Claude 家族：Opus / Sonnet / Haiku](../03_产品调研/Claude家族.md)
-- [Claude Code](../03_产品调研/Claude_Code.md)
-- [Claude for Financial Analysis](../../04_AI金融/03_产品调研/Claude_for_Financial_Analysis.md)
+- [Claude 家族：Opus / Sonnet / Haiku](../03_产品研究/Claude家族.md)
+- [Claude Code](../03_产品研究/Claude_Code.md)
+- [Claude for Financial Analysis](../../04_AI金融/03_产品研究/Claude_for_Financial_Analysis.md)
 
 **行业层**：
 - [2026 年 AI 行业格局总览](../01_行业研究/AI行业格局2026.md)

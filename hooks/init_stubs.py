@@ -172,8 +172,24 @@ def main():
         sys.exit(1)
 
     mkdocs_path = os.path.join(PROJECT_DIR, "mkdocs.yml")
+
+    # mkdocs.yml 里 pymdownx.emoji 使用 !!python/name:... tag，
+    # SafeLoader 默认不认识，注册一个忽略构造器让未知 tag 返回 None。
+    class _IgnoreUnknownTagsLoader(yaml.SafeLoader):
+        pass
+
+    def _ignore_unknown(loader, tag_suffix, node):
+        return None
+
+    _IgnoreUnknownTagsLoader.add_multi_constructor(
+        "tag:yaml.org,2002:python/name:", _ignore_unknown
+    )
+    _IgnoreUnknownTagsLoader.add_multi_constructor(
+        "tag:yaml.org,2002:python/object/apply:", _ignore_unknown
+    )
+
     with open(mkdocs_path, "r", encoding="utf-8") as f:
-        cfg = yaml.safe_load(f)
+        cfg = yaml.load(f, Loader=_IgnoreUnknownTagsLoader)
 
     entries = []
     walk_nav(cfg.get("nav", []), entries)
