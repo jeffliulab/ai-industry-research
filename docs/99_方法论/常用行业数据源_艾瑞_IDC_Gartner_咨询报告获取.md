@@ -1,5 +1,179 @@
-# 常用行业数据源_艾瑞_IDC_Gartner_咨询报告获取
+# 常用行业数据源：艾瑞 / IDC / Gartner / 咨询报告获取
 
 > 最后更新：2026-04-22
->
-> **待补充**。
+
+## 摘要
+[上一篇](一手信息源清单_财报_招股书_访谈_播客.md) 讲了**定性一手源**，这一篇讲**定量数据源**。数据本身不会骗人，但挑数据的人会——本文给出常用数据源的**可信度评级**、**获取方式**（含不花钱的合法途径）与**使用时的三条纪律**。
+
+## 使用数据的三条纪律
+
+**1. 永远追溯到原始出版物**
+"据 Gartner 报告" 不算溯源，写成 "Gartner, *Hype Cycle for Artificial Intelligence, 2026*, Published Jul 2026" 才算。报告名、发布时点、作者三要素缺一不可。
+
+**2. 数字必须带时点、地域、口径**
+- ❌ "AI 市场规模 5000 亿"
+- ✅ "2025 全球生成式 AI 企业软件市场规模约 $95B（IDC, 2026 Q1），其中北美占 48%"
+
+**3. 预测数据只用作参考**
+机构 5 年后的预测误差经常超过 50%。**只用预测讨论方向**，不要用来论证结论。
+
+## 数据源按强度分层
+
+### S 级 · 原始一手
+
+**国家统计与监管数据**（最权威）
+- **中国**：国家统计局 / 工信部 / 人民银行 / 证监会 / 银保监会 / 网信办
+- **美国**：BLS（劳工统计局）/ BEA（经济分析局）/ SEC / FTC / Census Bureau
+- **全球**：OECD / IMF / World Bank / WTO / IEA（能源署）
+- **AI 专属**：Stanford HAI 年度 *AI Index Report* (<https://aiindex.stanford.edu>)——公开免费，数据翔实
+
+**公司财报**（见 [一手信息源清单](一手信息源清单_财报_招股书_访谈_播客.md)）——直接来源
+
+**顶级学术综述 / 白皮书**（经同行评审或跨机构背书）
+- Stanford HAI 系列、MIT Technology Review Insights、McKinsey Global Institute
+
+### A 级 · 付费研究机构（质量 vs 价格 vs 覆盖）
+
+**Gartner**
+- 强项：IT 与软件市场结构、Magic Quadrant 格局图、Hype Cycle
+- 弱点：价格极贵（单份 $2k+，年费 $30k+），预测经常保守
+- **免费获取**：
+  - 公司被提及就会被供应商拿来宣传——去供应商官网的 "Resources / Analyst Reports" 页下载
+  - 学校图书馆很多订了 Gartner
+  - 关键词 `"Gartner" "Magic Quadrant" filetype:pdf` 在 Google 上搜
+
+**IDC**
+- 强项：市场规模拆分（按国家、按细分领域、按价格带）
+- 定期发 *Worldwide Semiannual XXX Spending Guide* 之类的标品
+- **获取**：供应商引用 + 学校订阅 + IDC 中国偶尔发免费摘要
+
+**Forrester / S&P Global / Counterpoint / CCS Insight / TrendForce**
+- Counterpoint 在智能手机、半导体供应链的数据强
+- TrendForce（集邦咨询）在存储、面板、HBM、TSMC 产能数据强
+- S&P Global 综合最强（原 IHS Markit 并入）
+
+**SemiAnalysis**（Dylan Patel）
+- 半导体与 AI 基础设施的独立研究所
+- 年费 $500+/付费简报，但 Twitter 和免费文常常干货满满
+- **AI 算力 / GPU / 数据中心必追**
+
+**Epoch AI**（<https://epochai.org>）
+- AI 模型训练算力、数据规模的独立追踪
+- **完全免费、数据公开**，学术界常用
+
+**AI Index (Stanford HAI)**
+- **每年一次、300+ 页、完全免费、引用率极高**
+- AI 行业研究的核心参考，每年 4 月发新版
+
+### B 级 · 中文行业报告
+
+**艾瑞咨询（iResearch）**
+- 强项：中国 TMT 行业趋势、用户行为数据
+- 弱点：商业报告有时有软文嫌疑；市场规模数据跟 IDC 差距可达 30%
+- 免费：官网很多摘要版可下载
+
+**易观分析**
+- 强项：中国互联网产品日活月活数据、用户画像
+- 易观千帆（付费）是中国 App 数据的标准工具之一
+
+**赛迪顾问**
+- 强项：半导体、工业、政府产业规划
+- 偏政府/国企视角
+
+**中国信通院 (CAICT)**
+- 工信部直属，**权威但有政策色彩**
+- 每年发多份 AI / 大模型 / 数据要素白皮书，**完全免费**
+- 网址：<http://www.caict.ac.cn>
+
+**36Kr 研究院 / 亿欧智库 / 艾媒咨询**
+- 比艾瑞更偏"自媒体"，数据可信度更低
+- 适合参考**产业地图**和"可能在做 X 的公司清单"，不适合作为数字源
+
+**高盛 / 摩根士丹利 / 中金 / 中信 / 国金 / 天风 等券商研究所**
+- **深度最好**的免费长文（中文券商的 60 页行业深度报告往往值回票价）
+- 获取：雪球、知乎、公众号、Wind/iFinD 账号
+- 警告：有**利益冲突**（研报常服务于公司的投行客户）
+
+### C 级 · 互联网流量 / 数据工具
+
+**Similarweb / Semrush**
+- 网站流量、搜索引擎排名
+- 免费版够看大致量级
+
+**App Annie / Data.ai / Sensor Tower / 七麦数据**
+- 移动 App 下载、排行、收入估算
+- **收入估算误差可达 50%+**，只用方向
+
+**Google Trends**
+- 搜索热度相对变化
+- 做**消费者认知**研究有用；做市场规模研究**没用**
+
+**CB Insights / PitchBook / Crunchbase / IT 桔子**
+- 初创融资、并购、专利
+- CB Insights 公众号 + 免费 newsletter 可订
+
+### D 级 · 金融终端（专业用户）
+
+| 终端 | 强项 | 费用 |
+|---|---|---|
+| **Bloomberg Terminal** | 全能，财经顶配 | $24k/年 |
+| **Refinitiv Eikon** | 类 Bloomberg，偏欧洲 | 类似 |
+| **FactSet** | 投行常用 | 类似 |
+| **S&P Capital IQ** | 并购、估值 | 类似 |
+| **Wind 万得** | 中国资本市场标准工具 | ~$3k/年 |
+| **同花顺 iFinD** | Wind 的平替 | ~$1-2k/年 |
+| **PitchBook** | 一级市场最强 | $15k+/年 |
+
+**免费替代**：
+- 雅虎财经、东方财富 F10、巨潮资讯（够个人研究用）
+- 学校图书馆 Bloomberg / Wind 账号（多数美国顶尖商学院有）
+
+## 如何合法获取付费报告（不违反版权）
+
+1. **供应商官网**：报告提到某厂，厂方 90% 会付费买授权再免费发给用户下载
+2. **新闻稿引用**：各家发新闻稿时 copy-paste 报告里的数字（搜关键词能找到）
+3. **券商研报数据库**：雪球、慧博投研、choice 终端、Wind 的研报模块
+4. **学校图书馆**：很多商学院订了 Gartner / Forrester / IDC
+5. **个人邮箱 + LinkedIn**：用高级头衔申请免费样本（Forrester / Gartner 都有免费 analyst call）
+6. **年度免费旗舰报告**：Gartner *Hype Cycle*、McKinsey *State of AI*、Stanford *AI Index*、EY / KPMG / PwC / Deloitte 的趋势报告——全免费
+7. **Twitter / LinkedIn analyst**：分析师常发自己报告的关键图表
+
+## 推荐的年度"必读报告清单"
+
+每年 4-6 月集中发布，其他时段也有：
+
+| 报告 | 机构 | 免费 | 价值 |
+|---|---|---|---|
+| **AI Index Report** | Stanford HAI | ✅ | ★★★★★ |
+| **State of AI Report** | Nathan Benaich | ✅ | ★★★★★ |
+| **McKinsey State of AI** | McKinsey | ✅ | ★★★★ |
+| **a16z Big Ideas / State of Enterprise AI** | a16z | ✅ | ★★★★ |
+| **Menlo Ventures Enterprise AI Report** | Menlo | ✅ | ★★★★ |
+| **Sequoia AI Perspectives** | Sequoia | ✅ | ★★★★ |
+| **Gartner Hype Cycle (AI)** | Gartner | 摘要免费 | ★★★★ |
+| **中国信通院大模型白皮书** | 中国信通院 | ✅ | ★★★ |
+| **艾瑞：中国 AIGC 产业全景报告** | 艾瑞 | ✅ | ★★★ |
+| **SemiAnalysis 深度专栏** | SemiAnalysis | 部分免费 | ★★★★★（AI 基础设施） |
+| **Counterpoint / TrendForce 年度展望** | Counterpoint/TrendForce | 摘要免费 | ★★★★（硬件） |
+
+## 数据源使用常见的坑
+
+1. **双重计算**：Gartner 和 IDC 对同一市场定义不同，数字可能差 2 倍——**不要把不同来源的数字直接相加**
+2. **口径漂移**：同一机构对"AI 市场"的定义每年会变，五年趋势图可能因此失真
+3. **供应商报告**：很多免费"研究报告"实际是厂商软文（特别警惕带某公司 logo 的白皮书）
+4. **时间滞后**：IDC / Gartner 的 2025 数据往往在 2026 Q2 才出——读的时候要意识到数据是 12-18 个月前的
+5. **区域偏差**：美国机构对中国市场估算经常低估 50%，中国机构对海外估算经常过度乐观
+
+## 我的工作流
+
+对每篇文章：
+1. **Stanford AI Index + State of AI** 两份拉取核心数据点（年度更新）
+2. **最相关公司的最新财报**（季度更新）
+3. **券商深度报告 1-2 份**（宏观视角）
+4. **专业研究（SemiAnalysis / Epoch / TrendForce）** 按需
+5. **Gartner / IDC 的某一篇具体报告**（通过厂商引用或摘要渠道）
+6. 所有数字**统一标注来源 + 时点**
+
+## 延伸阅读
+- [一手信息源清单](一手信息源清单_财报_招股书_访谈_播客.md)
+- [用 AI 辅助行业研究的工作流](用AI辅助行业研究的工作流.md)
