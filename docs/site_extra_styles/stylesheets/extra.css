@@ -1,0 +1,109 @@
+/* ========================================================
+   Tiffany Blue 配色
+   - Primary: #0ABAB5  Tiffany Blue（官方色）
+   - Primary light: #4FD1CC
+   - Primary dark:  #087C79
+   - Accent:  #D4A574  muted gold，与 Tiffany 品牌的金饰呼应
+   ======================================================== */
+
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:              #0ABAB5;
+  --md-primary-fg-color--light:       #4FD1CC;
+  --md-primary-fg-color--dark:        #087C79;
+  --md-primary-bg-color:              #ffffff;
+  --md-primary-bg-color--light:       #ffffffbf;
+
+  --md-accent-fg-color:               #D4A574;
+  --md-accent-fg-color--transparent:  rgba(212, 165, 116, 0.10);
+  --md-accent-bg-color:               #ffffff;
+  --md-accent-bg-color--light:        #ffffffbf;
+
+  --md-typeset-a-color:               #087C79;
+}
+
+/* 深色模式下让主色稍微提亮 */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:              #4FD1CC;
+  --md-primary-fg-color--light:       #81DDD8;
+  --md-primary-fg-color--dark:        #0ABAB5;
+
+  --md-accent-fg-color:               #E8C896;
+  --md-accent-fg-color--transparent:  rgba(232, 200, 150, 0.12);
+
+  --md-typeset-a-color:               #81DDD8;
+}
+
+/* ====== 限制代码块最大高度，显示滚动条 ====== */
+pre code {
+  display: block;
+  max-height: 30em;
+  overflow: auto;
+}
+
+/* ====== 正文二级标题色带（Tiffany 渐变） ====== */
+.md-content h2 {
+  background: linear-gradient(135deg, #0ABAB5 0%, #4FD1CC 100%);
+  color: #fff !important;
+  padding: 10px 16px;
+  border-radius: 4px;
+  margin-top: 2.4em;
+  font-size: 1.15em;
+  letter-spacing: 0.02em;
+}
+
+.md-content h2 a {
+  color: #fff !important;
+}
+
+.md-content h2 .headerlink {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.md-content h2 .headerlink:hover {
+  color: #fff;
+}
+
+/* 深色模式下 H2 色带略降亮 */
+[data-md-color-scheme="slate"] .md-content h2 {
+  background: linear-gradient(135deg, #087C79 0%, #0ABAB5 100%);
+}
+
+/* ====== 顶部标签页悬停下拉菜单 ====== */
+.tab-dropdown {
+  position: fixed;
+  background: var(--md-default-bg-color);
+  border-top: 2px solid var(--md-primary-fg-color);
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 4px 0;
+  min-width: 160px;
+  z-index: 400;
+  white-space: nowrap;
+}
+
+.tab-dropdown__item {
+  display: block;
+  padding: 6px 16px;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+  text-decoration: none;
+  transition: background 0.12s, color 0.12s;
+}
+
+.tab-dropdown__item:hover {
+  background: rgba(10, 186, 181, 0.10);
+  color: var(--md-primary-fg-color--dark);
+}
+
+.tab-dropdown__item.has-submenu::after {
+  content: " \25B8";
+  float: right;
+  margin-left: 8px;
+  opacity: 0.5;
+}
+
+.tab-submenu {
+  border-top: none;
+  border-left: 2px solid var(--md-primary-fg-color);
+}

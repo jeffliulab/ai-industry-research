@@ -1,0 +1,27 @@
+# MkDocs build output
+site/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# MkDocs cache / plugins
+.cache/
+
+# Claude Code local settings
+.claude/
+
+# Python venv
+.venv/
+venv/
+
+# Codex temporary directories
+.codex_tmp_*/
