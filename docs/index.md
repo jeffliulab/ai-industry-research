@@ -50,6 +50,14 @@ hide:
 
     [开始阅读 →](07_自动驾驶/index.md){ .md-button }
 
+-   :material-head-snowflake: **脑机接口**
+
+    ---
+
+    侵入式 vs 非侵入式 · 医疗 / 消费 / 增强 · 神经伦理
+
+    [开始阅读 →](08_脑机接口/index.md){ .md-button }
+
 -   :material-finance: **AI 金融**
 
     ---

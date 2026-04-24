@@ -283,6 +283,37 @@ nav:
           - 华为 ADS: 07_自动驾驶/12_产品研究/华为ADS.md
           - 小鹏 XNGP: 07_自动驾驶/12_产品研究/小鹏XNGP.md
 
+  - 脑机接口:
+      - 08_脑机接口/index.md
+      - 技术路线:
+          - BCI 技术路线：侵入式 vs 非侵入式: 08_脑机接口/01_技术路线/BCI技术路线.md
+          - 电极与信号：ECoG · EEG · 单神经元: 08_脑机接口/01_技术路线/电极与信号.md
+      - 应用场景:
+          - BCI 医疗应用：瘫痪恢复 · 视觉 · 神经假体: 08_脑机接口/02_应用场景/BCI医疗应用.md
+          - 消费级 BCI 与增强：注意力 · 情绪 · 控制: 08_脑机接口/02_应用场景/消费级BCI.md
+      - 监管与伦理:
+          - BCI 监管与神经伦理：FDA · NMPA · 神经权利: 08_脑机接口/03_监管与伦理/BCI监管与伦理.md
+      - 公司研究:
+          - 美国头部:
+              - Neuralink: 08_脑机接口/11_公司研究/Neuralink.md
+              - Synchron: 08_脑机接口/11_公司研究/Synchron.md
+              - Precision Neuroscience: 08_脑机接口/11_公司研究/Precision_Neuroscience.md
+              - Paradromics: 08_脑机接口/11_公司研究/Paradromics.md
+              - Blackrock Neurotech: 08_脑机接口/11_公司研究/Blackrock_Neurotech.md
+              - BrainGate（学术联盟）: 08_脑机接口/11_公司研究/BrainGate.md
+          - 非侵入 / 消费:
+              - Kernel: 08_脑机接口/11_公司研究/Kernel.md
+              - Onward Medical（脊髓损伤）: 08_脑机接口/11_公司研究/Onward_Medical.md
+          - 中国头部:
+              - 脑虎科技: 08_脑机接口/11_公司研究/脑虎科技.md
+              - BrainCo 强脑科技: 08_脑机接口/11_公司研究/BrainCo.md
+      - 产品研究:
+          - Neuralink N1 植入: 08_脑机接口/12_产品研究/Neuralink_N1.md
+          - Synchron Stentrode: 08_脑机接口/12_产品研究/Synchron_Stentrode.md
+          - Precision NSX: 08_脑机接口/12_产品研究/Precision_NSX.md
+          - BrainGate 系统: 08_脑机接口/12_产品研究/BrainGate系统.md
+          - BrainCo Focus: 08_脑机接口/12_产品研究/BrainCo_Focus.md
+
   - AI 金融:
       - 04_AI金融/index.md
       - 全景与场景:
