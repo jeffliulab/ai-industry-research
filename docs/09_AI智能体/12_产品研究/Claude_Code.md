@@ -131,4 +131,4 @@ $ claude
 - Claude Code GitHub（持续 release notes）
 - HN · Claude Code 讨论帖（2025 多次上榜）
 - Reddit r/ClaudeAI
-- 本站 · [Anthropic 公司研究](../11_公司研究/Anthropic.md) · [Cursor 产品研究](Cursor.md) · [AI Coding 产品格局](../../05_AI互联网/02_产品品类/AI_Coding产品格局.md)
+- 本站 · [Anthropic 公司研究](../../01_AI/11_公司研究/Anthropic.md) · [Cursor 产品研究](Cursor.md) · [AI Coding 产品格局](../../05_AI互联网/02_产品品类/AI_Coding产品格局.md)

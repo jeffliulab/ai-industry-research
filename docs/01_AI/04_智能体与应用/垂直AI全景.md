@@ -164,4 +164,4 @@
 
 ## 延伸阅读
 
-- 本站 · [Agent 行业现状](Agent行业现状.md) · [企业 AI 落地模式](企业AI落地模式.md) · [Harvey AI 公司研究](../11_公司研究/Harvey.md) · [Glean 公司研究](../11_公司研究/Glean.md) · [BCG Advantage 框架](../../99_方法论/框架_BCG_Advantage.md)
+- 本站 · [Agent 行业现状](../../09_AI智能体/04_企业Agent/Agent行业现状.md) · [企业 Agent 落地模式](../../09_AI智能体/04_企业Agent/企业Agent落地模式.md) · [Harvey AI 公司研究](../11_公司研究/Harvey.md) · [Glean 公司研究](../11_公司研究/Glean.md) · [BCG Advantage 框架](../../99_方法论/框架_BCG_Advantage.md)

@@ -67,7 +67,7 @@ AI Coding 已从**"代码补全"**（Copilot 2021）→ **"IDE 会话式编程"*
 - 2025 年估值约 **$9B**（Series C）
 - 创始团队 MIT 出身
 
-详见 [Anysphere (Cursor) 公司研究](../11_公司研究/Anysphere.md) · [Cursor 产品](../../01_AI/12_产品研究/Cursor.md)
+详见 [Anysphere (Cursor) 公司研究](../11_公司研究/Anysphere.md) · [Cursor 产品](../../09_AI智能体/12_产品研究/Cursor.md)
 
 ## Claude Code 深度
 
@@ -85,7 +85,7 @@ AI Coding 已从**"代码补全"**（Copilot 2021）→ **"IDE 会话式编程"*
 - **部分重叠，更多补充**：很多重度开发者**同时用** Cursor（修文件）+ Claude Code（跑 Agent 任务）
 - Cursor 的 Agent 模式在追赶 Claude Code
 
-详见 [Claude Code 产品](../../01_AI/12_产品研究/Claude_Code.md)
+详见 [Claude Code 产品](../../09_AI智能体/12_产品研究/Claude_Code.md)
 
 ## Devin 的起伏（2024-2025）
 
@@ -120,4 +120,4 @@ AI Coding 行业属于 **Specialization 象限**：
 - Anysphere / Cursor 公开文档
 - Anthropic · Claude Code docs
 - Latent Space podcast · Cursor/Claude Code 深度访谈
-- 本站 · [Anysphere (Cursor) 公司研究](../11_公司研究/Anysphere.md) · [Anthropic](../../01_AI/11_公司研究/Anthropic.md) · [AI Agent 行业现状](../../01_AI/04_智能体与应用/Agent行业现状.md) · [Crossing the Chasm 框架](../../99_方法论/框架_跨越鸿沟.md)
+- 本站 · [Anysphere (Cursor) 公司研究](../11_公司研究/Anysphere.md) · [Anthropic](../../01_AI/11_公司研究/Anthropic.md) · [AI Agent 行业现状](../../09_AI智能体/04_企业Agent/Agent行业现状.md) · [Crossing the Chasm 框架](../../99_方法论/框架_跨越鸿沟.md)

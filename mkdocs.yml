@@ -95,9 +95,7 @@ nav:
           - GPU 云初创：CoreWeave · Lambda · Together: 01_AI/03_基础设施/GPU云初创.md
           - AI 训练数据提供商：Scale · Surge · Snorkel: 01_AI/03_基础设施/AI训练数据提供商.md
           - 数据中心与电力瓶颈: 01_AI/03_基础设施/数据中心与电力.md
-      - 智能体与应用:
-          - AI Agent 行业现状与路线分歧: 01_AI/04_智能体与应用/Agent行业现状.md
-          - 企业 AI 落地模式：Copilot · RAG · Agent: 01_AI/04_智能体与应用/企业AI落地模式.md
+      - 垂直 AI:
           - 垂直 AI 玩家全景: 01_AI/04_智能体与应用/垂直AI全景.md
       - 开源与生态:
           - 开源 vs 闭源：生态格局演变: 01_AI/05_开源与生态/开源vs闭源.md
@@ -127,7 +125,6 @@ nav:
               - Mistral AI: 01_AI/11_公司研究/Mistral.md
               - Cohere: 01_AI/11_公司研究/Cohere.md
               - Perplexity: 01_AI/11_公司研究/Perplexity.md
-              - Cursor（Anysphere）: 01_AI/11_公司研究/Anysphere.md
               - Harvey AI: 01_AI/11_公司研究/Harvey.md
               - Glean: 01_AI/11_公司研究/Glean.md
           - 中国大模型:
@@ -147,16 +144,59 @@ nav:
               - Gemini 系列: 01_AI/12_产品研究/Gemini系列.md
               - DeepSeek V3 / R1: 01_AI/12_产品研究/DeepSeek_V3_R1.md
               - Qwen 系列: 01_AI/12_产品研究/Qwen系列.md
-          - Coding 与生产力:
-              - Claude Code: 01_AI/12_产品研究/Claude_Code.md
-              - Cursor: 01_AI/12_产品研究/Cursor.md
-              - Windsurf: 01_AI/12_产品研究/Windsurf.md
-              - v0: 01_AI/12_产品研究/v0.md
+          - 生产力:
               - Notebook LM: 01_AI/12_产品研究/Notebook_LM.md
           - 多模态创作:
               - Sora: 01_AI/12_产品研究/Sora.md
               - Runway: 01_AI/12_产品研究/Runway.md
               - Midjourney: 01_AI/12_产品研究/Midjourney.md
+
+  - AI 智能体:
+      - 09_AI智能体/index.md
+      - Agent 基础:
+          - Agent 定义与分类：Copilot vs Agent: 09_AI智能体/01_Agent基础/Agent定义与分类.md
+          - Agent 技术栈：Tool Use · MCP · Memory: 09_AI智能体/01_Agent基础/Agent技术栈.md
+          - Multi-Agent 系统：LangGraph · CrewAI · AutoGen: 09_AI智能体/01_Agent基础/Multi_Agent系统.md
+      - Coding Agent:
+          - Coding Agent 格局：从 Copilot 到 Claude Code: 09_AI智能体/02_Coding_Agent/Coding_Agent格局.md
+          - Coding Agent 评测：SWE-bench · Terminal-Bench: 09_AI智能体/02_Coding_Agent/Coding_Agent评测.md
+          - 三种形态：Terminal vs IDE vs Web: 09_AI智能体/02_Coding_Agent/Terminal_vs_IDE_vs_Web.md
+      - 通用 Agent:
+          - Computer Use Agent：Claude CU · Operator: 09_AI智能体/03_通用Agent/Computer_Use_Agent.md
+          - Deep Research 产品对比: 09_AI智能体/03_通用Agent/Deep_Research产品.md
+          - 浏览器 Agent：Browser Use · Comet · Dia: 09_AI智能体/03_通用Agent/浏览器Agent.md
+      - 企业 Agent:
+          - AI Agent 行业现状与路线分歧: 09_AI智能体/04_企业Agent/Agent行业现状.md
+          - 企业 Agent 落地模式：Copilot · RAG · Fine-tune · Agent: 09_AI智能体/04_企业Agent/企业Agent落地模式.md
+          - Agent 定价与商业模式: 09_AI智能体/04_企业Agent/Agent定价与商业模式.md
+      - 评测与安全:
+          - Agent 评测体系：τ-bench · OSWorld · GAIA: 09_AI智能体/05_评测与安全/Agent评测体系.md
+          - Agent 安全边界：Prompt Injection · 权限 · 责任: 09_AI智能体/05_评测与安全/Agent安全边界.md
+      - 公司研究:
+          - Anysphere（Cursor）: 09_AI智能体/11_公司研究/Anysphere.md
+          - Cognition（Devin）: 09_AI智能体/11_公司研究/Cognition.md
+          - Sierra: 09_AI智能体/11_公司研究/Sierra.md
+          - Adept: 09_AI智能体/11_公司研究/Adept.md
+          - Factory AI: 09_AI智能体/11_公司研究/Factory_AI.md
+          - Butterfly Effect（Manus）: 09_AI智能体/11_公司研究/Butterfly_Effect_Manus.md
+      - 产品研究:
+          - Coding Agent:
+              - Claude Code: 09_AI智能体/12_产品研究/Claude_Code.md
+              - Cursor: 09_AI智能体/12_产品研究/Cursor.md
+              - Windsurf: 09_AI智能体/12_产品研究/Windsurf.md
+              - OpenAI Codex CLI: 09_AI智能体/12_产品研究/OpenAI_Codex_CLI.md
+              - GitHub Copilot: 09_AI智能体/12_产品研究/GitHub_Copilot.md
+              - Devin: 09_AI智能体/12_产品研究/Devin.md
+              - Claude Agent SDK: 09_AI智能体/12_产品研究/Claude_Agent_SDK.md
+          - Web / No-Code Agent:
+              - v0: 09_AI智能体/12_产品研究/v0.md
+              - Bolt.new: 09_AI智能体/12_产品研究/Bolt_new.md
+              - Lovable: 09_AI智能体/12_产品研究/Lovable.md
+              - Replit Agent: 09_AI智能体/12_产品研究/Replit_Agent.md
+          - 通用 Agent:
+              - ChatGPT Agent（Operator）: 09_AI智能体/12_产品研究/ChatGPT_Agent.md
+              - Claude Computer Use: 09_AI智能体/12_产品研究/Claude_Computer_Use.md
+              - Manus: 09_AI智能体/12_产品研究/Manus.md
 
   - 机器人:
       - 02_机器人/index.md

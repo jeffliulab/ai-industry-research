@@ -94,7 +94,7 @@ LLM 生成（基于检索到的上下文）
 
 **趋势**：
 - **LoRA / PEFT 降低了 fine-tune 门槛**
-- **SLM + fine-tune** 越来越普遍（详见 [SLM 专题](../02_技术前沿/SLM专题.md)）
+- **SLM + fine-tune** 越来越普遍（详见 [SLM 专题](../../01_AI/02_技术前沿/SLM专题.md)）
 
 ### 模式 4 · Agent（最深）
 **定义**：AI **自主**完成多步骤任务，包含决策、工具使用、状态管理
@@ -178,4 +178,4 @@ LLM 生成（基于检索到的上下文）
 ## 延伸阅读
 
 - Menlo Ventures · State of Gen AI in the Enterprise 2025
-- 本站 · [企业 AI 支出结构](../01_市场与资本/企业AI支出结构.md) · [AI Agent 行业现状](Agent行业现状.md) · [垂直 AI 全景](垂直AI全景.md) · [Crossing the Chasm 框架](../../99_方法论/框架_跨越鸿沟.md)
+- 本站 · [企业 AI 支出结构](../../01_AI/01_市场与资本/企业AI支出结构.md) · [AI Agent 行业现状](Agent行业现状.md) · [垂直 AI 全景](../../01_AI/04_智能体与应用/垂直AI全景.md) · [Crossing the Chasm 框架](../../99_方法论/框架_跨越鸿沟.md)

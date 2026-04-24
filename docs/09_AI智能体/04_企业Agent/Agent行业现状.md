@@ -131,4 +131,4 @@ Agent = LLM + 工具调用 + 任务分解 + 自我纠错循环。
 - Anthropic · Computer Use 技术博客
 - OpenAI · Operator 发布文档
 - The Information · AI Agent beat
-- 本站 · [AI Coding 产品格局](../../05_AI互联网/02_产品品类/AI_Coding产品格局.md) · [垂直 AI 全景](垂直AI全景.md) · [Crossing the Chasm 框架](../../99_方法论/框架_跨越鸿沟.md)
+- 本站 · [AI Coding 产品格局](../../05_AI互联网/02_产品品类/AI_Coding产品格局.md) · [垂直 AI 全景](../../01_AI/04_智能体与应用/垂直AI全景.md) · [Crossing the Chasm 框架](../../99_方法论/框架_跨越鸿沟.md)

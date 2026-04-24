@@ -6,7 +6,7 @@ hide:
 
 # Industry Research · 行业研究笔记
 
-## 五大行业
+## 研究板块
 
 <div class="grid cards" markdown>
 
@@ -14,9 +14,17 @@ hide:
 
     ---
 
-    10 维度：市场与资本 · 技术前沿 · 基础设施 · 智能体与应用 · 开源生态 · 地缘竞争 · 政策 · 安全 · 人才 · 年度展望
+    基础模型 · 市场与资本 · 技术前沿 · 基础设施 · 开源生态 · 地缘竞争 · 政策 · 安全 · 人才
 
     [开始阅读 →](01_AI/index.md){ .md-button }
+
+-   :material-robot-confused: **AI 智能体**
+
+    ---
+
+    Coding Agent（Claude Code · Cursor · Devin）· Computer Use · 企业 Agent · Multi-Agent 系统
+
+    [开始阅读 →](09_AI智能体/index.md){ .md-button }
 
 -   :material-robot-industrial: **机器人**
 

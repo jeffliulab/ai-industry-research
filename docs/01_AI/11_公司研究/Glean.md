@@ -140,4 +140,4 @@ Glean 提供 **"企业内部的 Google"** —— 连接 Google Workspace / Slack
 - Glean 官方博客（glean.com）
 - Arvind Jain 访谈 · Acquired 播客
 - Menlo Ventures · State of Gen AI in the Enterprise
-- 本站 · [垂直 AI 全景](../04_智能体与应用/垂直AI全景.md) · [企业 AI 落地模式](../04_智能体与应用/企业AI落地模式.md)
+- 本站 · [垂直 AI 全景](../04_智能体与应用/垂直AI全景.md) · [企业 Agent 落地模式](../../09_AI智能体/04_企业Agent/企业Agent落地模式.md)
