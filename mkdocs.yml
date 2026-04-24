@@ -217,6 +217,72 @@ nav:
           - RT-2 / OpenVLA: 03_具身智能/12_产品研究/RT2_OpenVLA.md
           - RDT（清华）: 03_具身智能/12_产品研究/RDT.md
 
+  - AI 医疗:
+      - 06_AI医疗/index.md
+      - 市场与资本:
+          - AI 医疗市场格局: 06_AI医疗/01_市场与资本/AI医疗市场格局.md
+          - AI 医疗投融资: 06_AI医疗/01_市场与资本/AI医疗投融资.md
+      - 药物发现与合成生物:
+          - AI 药物发现全景: 06_AI医疗/02_药物发现与合成生物/AI药物发现.md
+          - 蛋白质设计革命：AlphaFold 生态: 06_AI医疗/02_药物发现与合成生物/蛋白质设计.md
+      - 医疗影像与诊断:
+          - 医疗影像 AI 格局: 06_AI医疗/03_医疗影像与诊断/医疗影像AI.md
+          - AI 病理与放射: 06_AI医疗/03_医疗影像与诊断/AI病理与放射.md
+      - 临床 Copilot:
+          - 临床 Copilot 全景：Abridge · Nabla · Epic AI: 06_AI医疗/04_临床Copilot/临床Copilot全景.md
+      - 政策与监管:
+          - 全球医疗 AI 监管：FDA · NMPA · HIPAA: 06_AI医疗/05_政策与监管/全球医疗AI监管.md
+      - 公司研究:
+          - 美国药物发现:
+              - Recursion: 06_AI医疗/11_公司研究/Recursion.md
+              - Insilico Medicine: 06_AI医疗/11_公司研究/Insilico.md
+              - Absci: 06_AI医疗/11_公司研究/Absci.md
+              - Generate Biomedicines: 06_AI医疗/11_公司研究/Generate_Biomedicines.md
+              - Isomorphic Labs: 06_AI医疗/11_公司研究/Isomorphic_Labs.md
+          - 临床 Copilot:
+              - Abridge: 06_AI医疗/11_公司研究/Abridge.md
+              - Nabla: 06_AI医疗/11_公司研究/Nabla.md
+              - Hippocratic AI: 06_AI医疗/11_公司研究/Hippocratic_AI.md
+          - 中国梯队:
+              - 推想科技: 06_AI医疗/11_公司研究/推想科技.md
+              - 深透科技: 06_AI医疗/11_公司研究/深透科技.md
+      - 产品研究:
+          - AlphaFold: 06_AI医疗/12_产品研究/AlphaFold.md
+          - RFdiffusion: 06_AI医疗/12_产品研究/RFdiffusion.md
+          - Abridge Ambient: 06_AI医疗/12_产品研究/Abridge_Ambient.md
+          - Nabla Copilot: 06_AI医疗/12_产品研究/Nabla_Copilot.md
+          - Hippocratic Polaris: 06_AI医疗/12_产品研究/Hippocratic_Polaris.md
+
+  - 自动驾驶:
+      - 07_自动驾驶/index.md
+      - 技术路线:
+          - 自驾技术路线：端到端 vs 模块化: 07_自动驾驶/01_技术路线/自驾技术路线.md
+          - World Model 与 BEV+Transformer: 07_自动驾驶/01_技术路线/World_Model与BEV.md
+      - 商业化与 Robotaxi:
+          - Robotaxi 经济学：Waymo · 萝卜快跑 · Zoox: 07_自动驾驶/02_商业化与Robotaxi/Robotaxi经济学.md
+          - 自驾商业模式：L2+ · Level 4 · Solo Drive: 07_自动驾驶/02_商业化与Robotaxi/自驾商业模式.md
+      - 政策与监管:
+          - 全球自驾监管：L3/L4 · 事故责任: 07_自动驾驶/03_政策与监管/全球自驾监管.md
+      - 公司研究:
+          - 美国头部:
+              - Waymo: 07_自动驾驶/11_公司研究/Waymo.md
+              - Cruise: 07_自动驾驶/11_公司研究/Cruise.md
+              - Tesla FSD: 07_自动驾驶/11_公司研究/Tesla_FSD.md
+              - Zoox: 07_自动驾驶/11_公司研究/Zoox.md
+              - Aurora: 07_自动驾驶/11_公司研究/Aurora.md
+              - Motional: 07_自动驾驶/11_公司研究/Motional.md
+          - 中国头部:
+              - 百度萝卜快跑: 07_自动驾驶/11_公司研究/萝卜快跑.md
+              - 小马智行: 07_自动驾驶/11_公司研究/小马智行.md
+              - 文远知行: 07_自动驾驶/11_公司研究/文远知行.md
+              - Momenta: 07_自动驾驶/11_公司研究/Momenta.md
+      - 产品研究:
+          - Waymo Driver: 07_自动驾驶/12_产品研究/Waymo_Driver.md
+          - Tesla FSD 产品: 07_自动驾驶/12_产品研究/Tesla_FSD产品.md
+          - 百度 Apollo: 07_自动驾驶/12_产品研究/百度Apollo.md
+          - 华为 ADS: 07_自动驾驶/12_产品研究/华为ADS.md
+          - 小鹏 XNGP: 07_自动驾驶/12_产品研究/小鹏XNGP.md
+
   - AI 金融:
       - 04_AI金融/index.md
       - 全景与场景:

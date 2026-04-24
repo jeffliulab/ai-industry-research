@@ -34,6 +34,22 @@ hide:
 
     [开始阅读 →](03_具身智能/index.md){ .md-button }
 
+-   :material-heart-pulse: **AI 医疗**
+
+    ---
+
+    药物发现 · 蛋白质设计 · 医疗影像 · 临床 Copilot · 监管合规
+
+    [开始阅读 →](06_AI医疗/index.md){ .md-button }
+
+-   :material-car-connected: **自动驾驶**
+
+    ---
+
+    技术路线 · Robotaxi 经济学 · L3/L4 监管 · 中美自驾格局
+
+    [开始阅读 →](07_自动驾驶/index.md){ .md-button }
+
 -   :material-finance: **AI 金融**
 
     ---
