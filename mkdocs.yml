@@ -202,7 +202,8 @@ nav:
       - 02_机器人/index.md
       - 市场与格局:
           - 2026 人形机器人格局: 02_机器人/01_市场与格局/人形格局2026.md
-          - 三类机器人市场：工业 · 协作 · 服务: 02_机器人/01_市场与格局/三类机器人市场.md
+          - 五类机器人市场：工业 · 协作 · 服务 · 人形 · 外骨骼: 02_机器人/01_市场与格局/三类机器人市场.md
+          - 外骨骼：康复 · 工业 · 军事: 02_机器人/01_市场与格局/外骨骼.md
           - 中美人形机器人产业对比: 02_机器人/01_市场与格局/中美产业对比.md
       - 产业链:
           - 核心零部件：减速器 · 丝杠 · 电机: 02_机器人/02_产业链/核心零部件.md
@@ -211,7 +212,7 @@ nav:
           - 机器人基础模型 RFM 趋势: 02_机器人/03_大脑与数据/RFM趋势.md
           - 数据飞轮：从采集到训练: 02_机器人/03_大脑与数据/数据飞轮.md
       - 公司研究:
-          - 美国头部:
+          - 人形 · 美国头部:
               - Tesla Optimus: 02_机器人/11_公司研究/Tesla_Optimus.md
               - Figure AI: 02_机器人/11_公司研究/Figure.md
               - Boston Dynamics: 02_机器人/11_公司研究/Boston_Dynamics.md
@@ -219,13 +220,26 @@ nav:
               - 1X Technologies: 02_机器人/11_公司研究/1X.md
               - Apptronik: 02_机器人/11_公司研究/Apptronik.md
               - Sanctuary AI: 02_机器人/11_公司研究/Sanctuary.md
-          - 中国头部:
+          - 人形 · 欧洲:
+              - Neura Robotics: 02_机器人/11_公司研究/Neura_Robotics.md
+          - 人形 · 中国头部:
               - 宇树科技: 02_机器人/11_公司研究/宇树.md
               - 智元机器人: 02_机器人/11_公司研究/智元.md
               - 优必选: 02_机器人/11_公司研究/优必选.md
               - 傅利叶: 02_机器人/11_公司研究/傅利叶.md
               - 星动纪元: 02_机器人/11_公司研究/星动纪元.md
               - 乐聚机器人: 02_机器人/11_公司研究/乐聚.md
+          - 外骨骼 · 医疗康复:
+              - ReWalk / Lifeward: 02_机器人/11_公司研究/ReWalk.md
+              - Cyberdyne（HAL）: 02_机器人/11_公司研究/Cyberdyne.md
+              - Ekso Bionics: 02_机器人/11_公司研究/Ekso_Bionics.md
+              - Wandercraft: 02_机器人/11_公司研究/Wandercraft.md
+              - 程天科技: 02_机器人/11_公司研究/程天科技.md
+              - 大艾机器人: 02_机器人/11_公司研究/大艾机器人.md
+          - 外骨骼 · 工业 / 消费:
+              - Sarcos Technology: 02_机器人/11_公司研究/Sarcos.md
+              - Ottobock（含 SuitX）: 02_机器人/11_公司研究/Ottobock.md
+              - Roam Robotics: 02_机器人/11_公司研究/Roam_Robotics.md
       - 产品研究:
           - Optimus 系列: 02_机器人/12_产品研究/Optimus.md
           - Figure 02 / 03: 02_机器人/12_产品研究/Figure_02_03.md
@@ -341,16 +355,23 @@ nav:
               - Paradromics: 08_脑机接口/11_公司研究/Paradromics.md
               - Blackrock Neurotech: 08_脑机接口/11_公司研究/Blackrock_Neurotech.md
               - BrainGate（学术联盟）: 08_脑机接口/11_公司研究/BrainGate.md
+              - Science Corporation（视觉 BCI）: 08_脑机接口/11_公司研究/Science_Corporation.md
+              - Motif Neurotech（微创刺激）: 08_脑机接口/11_公司研究/Motif_Neurotech.md
+          - 神经刺激 / 脊髓:
+              - Onward Medical（脊髓损伤）: 08_脑机接口/11_公司研究/Onward_Medical.md
           - 非侵入 / 消费:
               - Kernel: 08_脑机接口/11_公司研究/Kernel.md
-              - Onward Medical（脊髓损伤）: 08_脑机接口/11_公司研究/Onward_Medical.md
+          - 欧洲:
+              - Inbrain Neuroelectronics（石墨烯）: 08_脑机接口/11_公司研究/Inbrain.md
           - 中国头部:
               - 脑虎科技: 08_脑机接口/11_公司研究/脑虎科技.md
+              - 上海阶梯医疗（StairMed）: 08_脑机接口/11_公司研究/上海阶梯医疗.md
               - BrainCo 强脑科技: 08_脑机接口/11_公司研究/BrainCo.md
       - 产品研究:
           - Neuralink N1 植入: 08_脑机接口/12_产品研究/Neuralink_N1.md
           - Synchron Stentrode: 08_脑机接口/12_产品研究/Synchron_Stentrode.md
           - Precision NSX: 08_脑机接口/12_产品研究/Precision_NSX.md
+          - StairMed NEO: 08_脑机接口/12_产品研究/StairMed_NEO.md
           - BrainGate 系统: 08_脑机接口/12_产品研究/BrainGate系统.md
           - BrainCo Focus: 08_脑机接口/12_产品研究/BrainCo_Focus.md
 

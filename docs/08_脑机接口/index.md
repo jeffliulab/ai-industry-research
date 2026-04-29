@@ -24,7 +24,7 @@
 
 ## 主要玩家
 
-**侵入式（高带宽）**：
+**侵入式（高带宽 · 读取主导）**：
 - Neuralink（Musk，2024 首例人体试验）
 - Synchron（血管内支架电极，FDA IDE 已批）
 - Precision Neuroscience（薄膜电极，2024 首例人体植入）
@@ -32,13 +32,23 @@
 - Blackrock Neurotech（老牌，学术研究主力）
 - BrainGate（多机构学术联盟）
 
+**视觉 / 微创刺激**（差异化路径）：
+- Science Corporation（Max Hodak ex-Neuralink，视网膜 BCI / 视觉假体）
+- Motif Neurotech（微创刺激，抑郁症 / TRD 适应症）
+
+**神经刺激 / 脊髓**（写入主导）：
+- Onward Medical（脊髓损伤神经刺激 + 外骨骼协同）
+
+**欧洲（材料创新）**：
+- Inbrain Neuroelectronics（西班牙，石墨烯电极）
+
 **非侵入 / 消费**：
 - Kernel（脑成像头盔）
-- Onward Medical（脊髓损伤神经刺激）
 - BrainCo 强脑科技（中国，Focus 头环）
 
 **中国**：
-- 脑虎科技（侵入式，清华系）
+- 脑虎科技（侵入式，中科院上海微系统所系）
+- 阶梯医疗 StairMed（半侵入式 ECoG，清华洪波团队）
 - BrainCo（消费级 + 假肢）
 
 ## 代表产品
@@ -46,6 +56,7 @@
 - Neuralink N1（可植入无线 BCI）
 - Synchron Stentrode（血管内 BCI）
 - Precision NSX（薄膜电极）
+- StairMed NEO（中国半侵入式 ECoG）
 - BrainGate 系统（学术旗舰）
 - BrainCo Focus（消费级注意力头环）
 
