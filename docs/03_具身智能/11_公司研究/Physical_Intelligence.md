@@ -119,4 +119,4 @@
 - Physical Intelligence blog · π0 / π0.5 技术报告
 - Dwarkesh Podcast · Sergey Levine 访谈
 - Sergey Levine / Chelsea Finn · 顶会论文
-- 本站 · [具身智能技术路线](../01_技术路线/技术路线.md) · [机器人基础模型 RFM 趋势](../../02_机器人/03_大脑与数据/RFM趋势.md) · [VRIO 框架](../../99_方法论/框架_VRIO.md) · [π0 产品](../12_产品研究/π0.md)
+- 本站 · [具身智能技术路线](../01_技术路线/技术路线.md) · [机器人基础模型 RFM 趋势](../01_技术路线/RFM趋势.md) · [VRIO 框架](../../99_方法论/框架_VRIO.md) · [π0 产品](../12_产品研究/π0.md)

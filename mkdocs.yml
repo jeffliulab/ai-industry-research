@@ -114,42 +114,40 @@ nav:
           - 顶级 AI 实验室概览: 01_AI/09_人才与实验室/顶级实验室概览.md
       - 年度展望:
           - 2026 年度预测与自评: 01_AI/10_年度展望/2026年度预测.md
-      - 公司研究:
-          - 美国头部:
-              - Anthropic: 01_AI/11_公司研究/Anthropic.md
-              - OpenAI: 01_AI/11_公司研究/OpenAI.md
-              - Google DeepMind: 01_AI/11_公司研究/Google_DeepMind.md
-              - Meta AI / FAIR: 01_AI/11_公司研究/Meta_AI_FAIR.md
-              - xAI: 01_AI/11_公司研究/xAI.md
-          - 海外挑战者:
-              - Mistral AI: 01_AI/11_公司研究/Mistral.md
-              - Cohere: 01_AI/11_公司研究/Cohere.md
-              - Perplexity: 01_AI/11_公司研究/Perplexity.md
-              - Harvey AI: 01_AI/11_公司研究/Harvey.md
-              - Glean: 01_AI/11_公司研究/Glean.md
-          - 中国大模型:
-              - DeepSeek: 01_AI/11_公司研究/DeepSeek.md
-              - Moonshot 月之暗面: 01_AI/11_公司研究/Moonshot.md
-              - 智谱 AI: 01_AI/11_公司研究/智谱AI.md
-              - MiniMax: 01_AI/11_公司研究/MiniMax.md
-              - 阿里通义: 01_AI/11_公司研究/阿里通义.md
-              - 字节豆包 / Seed: 01_AI/11_公司研究/字节Seed.md
-              - 百川智能: 01_AI/11_公司研究/百川智能.md
-              - 阶跃星辰: 01_AI/11_公司研究/阶跃星辰.md
-              - 腾讯混元: 01_AI/11_公司研究/腾讯混元.md
-      - 产品研究:
-          - 基础模型:
-              - Claude 家族: 01_AI/12_产品研究/Claude家族.md
-              - ChatGPT 与 Codex: 01_AI/12_产品研究/ChatGPT.md
-              - Gemini 系列: 01_AI/12_产品研究/Gemini系列.md
-              - DeepSeek V3 / R1: 01_AI/12_产品研究/DeepSeek_V3_R1.md
-              - Qwen 系列: 01_AI/12_产品研究/Qwen系列.md
-          - 生产力:
-              - Notebook LM: 01_AI/12_产品研究/Notebook_LM.md
-          - 多模态创作:
-              - Sora: 01_AI/12_产品研究/Sora.md
-              - Runway: 01_AI/12_产品研究/Runway.md
-              - Midjourney: 01_AI/12_产品研究/Midjourney.md
+      - 公司：美国头部:
+          - Anthropic: 01_AI/11_公司研究/Anthropic.md
+          - OpenAI: 01_AI/11_公司研究/OpenAI.md
+          - Google DeepMind: 01_AI/11_公司研究/Google_DeepMind.md
+          - Meta AI / FAIR: 01_AI/11_公司研究/Meta_AI_FAIR.md
+          - xAI: 01_AI/11_公司研究/xAI.md
+      - 公司：海外挑战者:
+          - Mistral AI: 01_AI/11_公司研究/Mistral.md
+          - Cohere: 01_AI/11_公司研究/Cohere.md
+          - Perplexity: 01_AI/11_公司研究/Perplexity.md
+          - Harvey AI: 01_AI/11_公司研究/Harvey.md
+          - Glean: 01_AI/11_公司研究/Glean.md
+      - 公司：中国大模型:
+          - DeepSeek: 01_AI/11_公司研究/DeepSeek.md
+          - Moonshot 月之暗面: 01_AI/11_公司研究/Moonshot.md
+          - 智谱 AI: 01_AI/11_公司研究/智谱AI.md
+          - MiniMax: 01_AI/11_公司研究/MiniMax.md
+          - 阿里通义: 01_AI/11_公司研究/阿里通义.md
+          - 字节豆包 / Seed: 01_AI/11_公司研究/字节Seed.md
+          - 百川智能: 01_AI/11_公司研究/百川智能.md
+          - 阶跃星辰: 01_AI/11_公司研究/阶跃星辰.md
+          - 腾讯混元: 01_AI/11_公司研究/腾讯混元.md
+      - 产品：基础模型:
+          - Claude 家族: 01_AI/12_产品研究/Claude家族.md
+          - ChatGPT 与 Codex: 01_AI/12_产品研究/ChatGPT.md
+          - Gemini 系列: 01_AI/12_产品研究/Gemini系列.md
+          - DeepSeek V3 / R1: 01_AI/12_产品研究/DeepSeek_V3_R1.md
+          - Qwen 系列: 01_AI/12_产品研究/Qwen系列.md
+      - 产品：生产力:
+          - Notebook LM: 01_AI/12_产品研究/Notebook_LM.md
+      - 产品：多模态创作:
+          - Sora: 01_AI/12_产品研究/Sora.md
+          - Runway: 01_AI/12_产品研究/Runway.md
+          - Midjourney: 01_AI/12_产品研究/Midjourney.md
 
   - AI 智能体:
       - 09_AI智能体/index.md
@@ -179,83 +177,84 @@ nav:
           - Adept: 09_AI智能体/11_公司研究/Adept.md
           - Factory AI: 09_AI智能体/11_公司研究/Factory_AI.md
           - Butterfly Effect（Manus）: 09_AI智能体/11_公司研究/Butterfly_Effect_Manus.md
+      - 产品：Coding Agent:
+          - Claude Code: 09_AI智能体/12_产品研究/Claude_Code.md
+          - Cursor: 09_AI智能体/12_产品研究/Cursor.md
+          - Windsurf: 09_AI智能体/12_产品研究/Windsurf.md
+          - OpenAI Codex CLI: 09_AI智能体/12_产品研究/OpenAI_Codex_CLI.md
+          - GitHub Copilot: 09_AI智能体/12_产品研究/GitHub_Copilot.md
+          - Devin: 09_AI智能体/12_产品研究/Devin.md
+          - Claude Agent SDK: 09_AI智能体/12_产品研究/Claude_Agent_SDK.md
+      - 产品：Web · No-Code Agent:
+          - v0: 09_AI智能体/12_产品研究/v0.md
+          - Bolt.new: 09_AI智能体/12_产品研究/Bolt_new.md
+          - Lovable: 09_AI智能体/12_产品研究/Lovable.md
+          - Replit Agent: 09_AI智能体/12_产品研究/Replit_Agent.md
+      - 产品：通用 Agent:
+          - ChatGPT Agent（Operator）: 09_AI智能体/12_产品研究/ChatGPT_Agent.md
+          - Claude Computer Use: 09_AI智能体/12_产品研究/Claude_Computer_Use.md
+          - Manus: 09_AI智能体/12_产品研究/Manus.md
+
+  - 人形机器人:
+      - 02_人形机器人/index.md
+      - 市场与格局:
+          - 2026 人形机器人格局: 02_人形机器人/01_市场与格局/人形格局2026.md
+          - 中美人形机器人产业对比: 02_人形机器人/01_市场与格局/中美产业对比.md
+      - 公司：美国头部:
+          - Tesla Optimus: 02_人形机器人/11_公司研究/Tesla_Optimus.md
+          - Figure AI: 02_人形机器人/11_公司研究/Figure.md
+          - Boston Dynamics: 02_人形机器人/11_公司研究/Boston_Dynamics.md
+          - Agility Robotics: 02_人形机器人/11_公司研究/Agility.md
+          - 1X Technologies: 02_人形机器人/11_公司研究/1X.md
+          - Apptronik: 02_人形机器人/11_公司研究/Apptronik.md
+          - Sanctuary AI: 02_人形机器人/11_公司研究/Sanctuary.md
+      - 公司：欧洲:
+          - Neura Robotics（德国）: 02_人形机器人/11_公司研究/Neura_Robotics.md
+      - 公司：中国头部:
+          - 宇树科技: 02_人形机器人/11_公司研究/宇树.md
+          - 智元机器人: 02_人形机器人/11_公司研究/智元.md
+          - 优必选: 02_人形机器人/11_公司研究/优必选.md
+          - 傅利叶: 02_人形机器人/11_公司研究/傅利叶.md
+          - 星动纪元: 02_人形机器人/11_公司研究/星动纪元.md
+          - 乐聚机器人: 02_人形机器人/11_公司研究/乐聚.md
       - 产品研究:
-          - Coding Agent:
-              - Claude Code: 09_AI智能体/12_产品研究/Claude_Code.md
-              - Cursor: 09_AI智能体/12_产品研究/Cursor.md
-              - Windsurf: 09_AI智能体/12_产品研究/Windsurf.md
-              - OpenAI Codex CLI: 09_AI智能体/12_产品研究/OpenAI_Codex_CLI.md
-              - GitHub Copilot: 09_AI智能体/12_产品研究/GitHub_Copilot.md
-              - Devin: 09_AI智能体/12_产品研究/Devin.md
-              - Claude Agent SDK: 09_AI智能体/12_产品研究/Claude_Agent_SDK.md
-          - Web / No-Code Agent:
-              - v0: 09_AI智能体/12_产品研究/v0.md
-              - Bolt.new: 09_AI智能体/12_产品研究/Bolt_new.md
-              - Lovable: 09_AI智能体/12_产品研究/Lovable.md
-              - Replit Agent: 09_AI智能体/12_产品研究/Replit_Agent.md
-          - 通用 Agent:
-              - ChatGPT Agent（Operator）: 09_AI智能体/12_产品研究/ChatGPT_Agent.md
-              - Claude Computer Use: 09_AI智能体/12_产品研究/Claude_Computer_Use.md
-              - Manus: 09_AI智能体/12_产品研究/Manus.md
+          - Optimus 系列: 02_人形机器人/12_产品研究/Optimus.md
+          - Figure 02 / 03: 02_人形机器人/12_产品研究/Figure_02_03.md
+          - Unitree G1 / H1: 02_人形机器人/12_产品研究/Unitree_G1_H1.md
+          - Atlas Electric: 02_人形机器人/12_产品研究/Atlas_Electric.md
+          - 1X NEO: 02_人形机器人/12_产品研究/NEO.md
 
   - 机器人:
       - 02_机器人/index.md
       - 市场与格局:
-          - 2026 人形机器人格局: 02_机器人/01_市场与格局/人形格局2026.md
           - 五类机器人市场：工业 · 协作 · 服务 · 人形 · 外骨骼: 02_机器人/01_市场与格局/三类机器人市场.md
           - 外骨骼：康复 · 工业 · 军事: 02_机器人/01_市场与格局/外骨骼.md
-          - 中美人形机器人产业对比: 02_机器人/01_市场与格局/中美产业对比.md
       - 产业链:
           - 核心零部件：减速器 · 丝杠 · 电机: 02_机器人/02_产业链/核心零部件.md
           - 量产的关键瓶颈: 02_机器人/02_产业链/量产瓶颈.md
-      - 大脑与数据:
-          - 机器人基础模型 RFM 趋势: 02_机器人/03_大脑与数据/RFM趋势.md
-          - 数据飞轮：从采集到训练: 02_机器人/03_大脑与数据/数据飞轮.md
-      - 公司研究:
-          - 人形 · 美国头部:
-              - Tesla Optimus: 02_机器人/11_公司研究/Tesla_Optimus.md
-              - Figure AI: 02_机器人/11_公司研究/Figure.md
-              - Boston Dynamics: 02_机器人/11_公司研究/Boston_Dynamics.md
-              - Agility Robotics: 02_机器人/11_公司研究/Agility.md
-              - 1X Technologies: 02_机器人/11_公司研究/1X.md
-              - Apptronik: 02_机器人/11_公司研究/Apptronik.md
-              - Sanctuary AI: 02_机器人/11_公司研究/Sanctuary.md
-          - 人形 · 欧洲:
-              - Neura Robotics: 02_机器人/11_公司研究/Neura_Robotics.md
-          - 人形 · 中国头部:
-              - 宇树科技: 02_机器人/11_公司研究/宇树.md
-              - 智元机器人: 02_机器人/11_公司研究/智元.md
-              - 优必选: 02_机器人/11_公司研究/优必选.md
-              - 傅利叶: 02_机器人/11_公司研究/傅利叶.md
-              - 星动纪元: 02_机器人/11_公司研究/星动纪元.md
-              - 乐聚机器人: 02_机器人/11_公司研究/乐聚.md
-          - 外骨骼 · 医疗康复:
-              - ReWalk / Lifeward: 02_机器人/11_公司研究/ReWalk.md
-              - Cyberdyne（HAL）: 02_机器人/11_公司研究/Cyberdyne.md
-              - Ekso Bionics: 02_机器人/11_公司研究/Ekso_Bionics.md
-              - Wandercraft: 02_机器人/11_公司研究/Wandercraft.md
-              - 程天科技: 02_机器人/11_公司研究/程天科技.md
-              - 大艾机器人: 02_机器人/11_公司研究/大艾机器人.md
-          - 外骨骼 · 工业 / 消费:
-              - Sarcos Technology: 02_机器人/11_公司研究/Sarcos.md
-              - Ottobock（含 SuitX）: 02_机器人/11_公司研究/Ottobock.md
-              - Roam Robotics: 02_机器人/11_公司研究/Roam_Robotics.md
-      - 产品研究:
-          - Optimus 系列: 02_机器人/12_产品研究/Optimus.md
-          - Figure 02 / 03: 02_机器人/12_产品研究/Figure_02_03.md
-          - Unitree G1 / H1: 02_机器人/12_产品研究/Unitree_G1_H1.md
-          - Atlas Electric: 02_机器人/12_产品研究/Atlas_Electric.md
-          - 1X NEO: 02_机器人/12_产品研究/NEO.md
+      - 公司：医疗康复外骨骼:
+          - ReWalk / Lifeward: 02_机器人/11_公司研究/ReWalk.md
+          - Cyberdyne（HAL）: 02_机器人/11_公司研究/Cyberdyne.md
+          - Ekso Bionics: 02_机器人/11_公司研究/Ekso_Bionics.md
+          - Wandercraft: 02_机器人/11_公司研究/Wandercraft.md
+          - 程天科技: 02_机器人/11_公司研究/程天科技.md
+          - 大艾机器人: 02_机器人/11_公司研究/大艾机器人.md
+      - 公司：工业 · 消费外骨骼:
+          - Sarcos Technology: 02_机器人/11_公司研究/Sarcos.md
+          - Ottobock（含 SuitX）: 02_机器人/11_公司研究/Ottobock.md
+          - Roam Robotics: 02_机器人/11_公司研究/Roam_Robotics.md
 
   - 具身智能:
       - 03_具身智能/index.md
       - 技术路线:
           - 技术路线：VLA · VLM · World Model: 03_具身智能/01_技术路线/技术路线.md
+          - 机器人基础模型 RFM 趋势: 03_具身智能/01_技术路线/RFM趋势.md
           - 评测基准: 03_具身智能/01_技术路线/评测基准.md
           - Scaling Law 讨论: 03_具身智能/01_技术路线/Scaling_Law讨论.md
       - 数据与仿真:
           - 数据采集：遥操作 · 仿真 · 真机: 03_具身智能/02_数据与仿真/数据采集.md
           - Sim2Real 与仿真平台：Isaac · MuJoCo · Genesis: 03_具身智能/02_数据与仿真/Sim2Real与仿真平台.md
+          - 数据飞轮：从采集到训练: 03_具身智能/02_数据与仿真/数据飞轮.md
       - 公司研究:
           - Physical Intelligence（π）: 03_具身智能/11_公司研究/Physical_Intelligence.md
           - Skild AI: 03_具身智能/11_公司研究/Skild.md
@@ -286,20 +285,19 @@ nav:
           - 临床 Copilot 全景：Abridge · Nabla · Epic AI: 06_AI医疗/04_临床Copilot/临床Copilot全景.md
       - 政策与监管:
           - 全球医疗 AI 监管：FDA · NMPA · HIPAA: 06_AI医疗/05_政策与监管/全球医疗AI监管.md
-      - 公司研究:
-          - 美国药物发现:
-              - Recursion: 06_AI医疗/11_公司研究/Recursion.md
-              - Insilico Medicine: 06_AI医疗/11_公司研究/Insilico.md
-              - Absci: 06_AI医疗/11_公司研究/Absci.md
-              - Generate Biomedicines: 06_AI医疗/11_公司研究/Generate_Biomedicines.md
-              - Isomorphic Labs: 06_AI医疗/11_公司研究/Isomorphic_Labs.md
-          - 临床 Copilot:
-              - Abridge: 06_AI医疗/11_公司研究/Abridge.md
-              - Nabla: 06_AI医疗/11_公司研究/Nabla.md
-              - Hippocratic AI: 06_AI医疗/11_公司研究/Hippocratic_AI.md
-          - 中国梯队:
-              - 推想科技: 06_AI医疗/11_公司研究/推想科技.md
-              - 深透科技: 06_AI医疗/11_公司研究/深透科技.md
+      - 公司：美国药物发现:
+          - Recursion: 06_AI医疗/11_公司研究/Recursion.md
+          - Insilico Medicine: 06_AI医疗/11_公司研究/Insilico.md
+          - Absci: 06_AI医疗/11_公司研究/Absci.md
+          - Generate Biomedicines: 06_AI医疗/11_公司研究/Generate_Biomedicines.md
+          - Isomorphic Labs: 06_AI医疗/11_公司研究/Isomorphic_Labs.md
+      - 公司：临床 Copilot:
+          - Abridge: 06_AI医疗/11_公司研究/Abridge.md
+          - Nabla: 06_AI医疗/11_公司研究/Nabla.md
+          - Hippocratic AI: 06_AI医疗/11_公司研究/Hippocratic_AI.md
+      - 公司：中国梯队:
+          - 推想科技: 06_AI医疗/11_公司研究/推想科技.md
+          - 深透科技: 06_AI医疗/11_公司研究/深透科技.md
       - 产品研究:
           - AlphaFold: 06_AI医疗/12_产品研究/AlphaFold.md
           - RFdiffusion: 06_AI医疗/12_产品研究/RFdiffusion.md
@@ -317,19 +315,18 @@ nav:
           - 自驾商业模式：L2+ · Level 4 · Solo Drive: 07_自动驾驶/02_商业化与Robotaxi/自驾商业模式.md
       - 政策与监管:
           - 全球自驾监管：L3/L4 · 事故责任: 07_自动驾驶/03_政策与监管/全球自驾监管.md
-      - 公司研究:
-          - 美国头部:
-              - Waymo: 07_自动驾驶/11_公司研究/Waymo.md
-              - Cruise: 07_自动驾驶/11_公司研究/Cruise.md
-              - Tesla FSD: 07_自动驾驶/11_公司研究/Tesla_FSD.md
-              - Zoox: 07_自动驾驶/11_公司研究/Zoox.md
-              - Aurora: 07_自动驾驶/11_公司研究/Aurora.md
-              - Motional: 07_自动驾驶/11_公司研究/Motional.md
-          - 中国头部:
-              - 百度萝卜快跑: 07_自动驾驶/11_公司研究/萝卜快跑.md
-              - 小马智行: 07_自动驾驶/11_公司研究/小马智行.md
-              - 文远知行: 07_自动驾驶/11_公司研究/文远知行.md
-              - Momenta: 07_自动驾驶/11_公司研究/Momenta.md
+      - 公司：美国头部:
+          - Waymo: 07_自动驾驶/11_公司研究/Waymo.md
+          - Cruise: 07_自动驾驶/11_公司研究/Cruise.md
+          - Tesla FSD: 07_自动驾驶/11_公司研究/Tesla_FSD.md
+          - Zoox: 07_自动驾驶/11_公司研究/Zoox.md
+          - Aurora: 07_自动驾驶/11_公司研究/Aurora.md
+          - Motional: 07_自动驾驶/11_公司研究/Motional.md
+      - 公司：中国头部:
+          - 百度萝卜快跑: 07_自动驾驶/11_公司研究/萝卜快跑.md
+          - 小马智行: 07_自动驾驶/11_公司研究/小马智行.md
+          - 文远知行: 07_自动驾驶/11_公司研究/文远知行.md
+          - Momenta: 07_自动驾驶/11_公司研究/Momenta.md
       - 产品研究:
           - Waymo Driver: 07_自动驾驶/12_产品研究/Waymo_Driver.md
           - Tesla FSD 产品: 07_自动驾驶/12_产品研究/Tesla_FSD产品.md
@@ -347,26 +344,25 @@ nav:
           - 消费级 BCI 与增强：注意力 · 情绪 · 控制: 08_脑机接口/02_应用场景/消费级BCI.md
       - 监管与伦理:
           - BCI 监管与神经伦理：FDA · NMPA · 神经权利: 08_脑机接口/03_监管与伦理/BCI监管与伦理.md
-      - 公司研究:
-          - 美国头部:
-              - Neuralink: 08_脑机接口/11_公司研究/Neuralink.md
-              - Synchron: 08_脑机接口/11_公司研究/Synchron.md
-              - Precision Neuroscience: 08_脑机接口/11_公司研究/Precision_Neuroscience.md
-              - Paradromics: 08_脑机接口/11_公司研究/Paradromics.md
-              - Blackrock Neurotech: 08_脑机接口/11_公司研究/Blackrock_Neurotech.md
-              - BrainGate（学术联盟）: 08_脑机接口/11_公司研究/BrainGate.md
-              - Science Corporation（视觉 BCI）: 08_脑机接口/11_公司研究/Science_Corporation.md
-              - Motif Neurotech（微创刺激）: 08_脑机接口/11_公司研究/Motif_Neurotech.md
-          - 神经刺激 / 脊髓:
-              - Onward Medical（脊髓损伤）: 08_脑机接口/11_公司研究/Onward_Medical.md
-          - 非侵入 / 消费:
-              - Kernel: 08_脑机接口/11_公司研究/Kernel.md
-          - 欧洲:
-              - Inbrain Neuroelectronics（石墨烯）: 08_脑机接口/11_公司研究/Inbrain.md
-          - 中国头部:
-              - 脑虎科技: 08_脑机接口/11_公司研究/脑虎科技.md
-              - 上海阶梯医疗（StairMed）: 08_脑机接口/11_公司研究/上海阶梯医疗.md
-              - BrainCo 强脑科技: 08_脑机接口/11_公司研究/BrainCo.md
+      - 公司：美国头部:
+          - Neuralink: 08_脑机接口/11_公司研究/Neuralink.md
+          - Synchron: 08_脑机接口/11_公司研究/Synchron.md
+          - Precision Neuroscience: 08_脑机接口/11_公司研究/Precision_Neuroscience.md
+          - Paradromics: 08_脑机接口/11_公司研究/Paradromics.md
+          - Blackrock Neurotech: 08_脑机接口/11_公司研究/Blackrock_Neurotech.md
+          - BrainGate（学术联盟）: 08_脑机接口/11_公司研究/BrainGate.md
+          - Science Corporation（视觉 BCI）: 08_脑机接口/11_公司研究/Science_Corporation.md
+          - Motif Neurotech（微创刺激）: 08_脑机接口/11_公司研究/Motif_Neurotech.md
+      - 公司：神经刺激 · 脊髓:
+          - Onward Medical（脊髓损伤）: 08_脑机接口/11_公司研究/Onward_Medical.md
+      - 公司：非侵入 · 消费:
+          - Kernel: 08_脑机接口/11_公司研究/Kernel.md
+      - 公司：欧洲:
+          - Inbrain Neuroelectronics（石墨烯）: 08_脑机接口/11_公司研究/Inbrain.md
+      - 公司：中国头部:
+          - 脑虎科技: 08_脑机接口/11_公司研究/脑虎科技.md
+          - 上海阶梯医疗（StairMed）: 08_脑机接口/11_公司研究/上海阶梯医疗.md
+          - BrainCo 强脑科技: 08_脑机接口/11_公司研究/BrainCo.md
       - 产品研究:
           - Neuralink N1 植入: 08_脑机接口/12_产品研究/Neuralink_N1.md
           - Synchron Stentrode: 08_脑机接口/12_产品研究/Synchron_Stentrode.md
@@ -386,20 +382,19 @@ nav:
           - Agent 在金融流程自动化的应用: 04_AI金融/02_专题/Agent在金融.md
       - 治理与监管:
           - 金融大模型的监管与合规: 04_AI金融/03_治理与监管/金融监管合规.md
-      - 公司研究:
-          - 买方 / 卖方:
-              - BlackRock Aladdin AI: 04_AI金融/11_公司研究/BlackRock.md
-              - JPMorgan COIN / IndexGPT: 04_AI金融/11_公司研究/JPMorgan.md
-              - Renaissance · Two Sigma · Bridgewater: 04_AI金融/11_公司研究/Renaissance_Two_Sigma_Bridgewater.md
-          - 数据与工具:
-              - Bloomberg 与 BloombergGPT: 04_AI金融/11_公司研究/Bloomberg.md
-              - AlphaSense: 04_AI金融/11_公司研究/AlphaSense.md
-              - Kensho（S&P）: 04_AI金融/11_公司研究/Kensho.md
-              - 同花顺 · 恒生电子: 04_AI金融/11_公司研究/同花顺_恒生电子.md
-          - 消费金融 / 支付:
-              - 蚂蚁 支小宝 / 百灵: 04_AI金融/11_公司研究/蚂蚁.md
-              - Stripe AI 与 Ramp: 04_AI金融/11_公司研究/Stripe与Ramp.md
-              - DeepSeek 在金融的应用案例: 04_AI金融/11_公司研究/DeepSeek金融应用.md
+      - 公司：买方 · 卖方:
+          - BlackRock Aladdin AI: 04_AI金融/11_公司研究/BlackRock.md
+          - JPMorgan COIN / IndexGPT: 04_AI金融/11_公司研究/JPMorgan.md
+          - Renaissance · Two Sigma · Bridgewater: 04_AI金融/11_公司研究/Renaissance_Two_Sigma_Bridgewater.md
+      - 公司：数据与工具:
+          - Bloomberg 与 BloombergGPT: 04_AI金融/11_公司研究/Bloomberg.md
+          - AlphaSense: 04_AI金融/11_公司研究/AlphaSense.md
+          - Kensho（S&P）: 04_AI金融/11_公司研究/Kensho.md
+          - 同花顺 · 恒生电子: 04_AI金融/11_公司研究/同花顺_恒生电子.md
+      - 公司：消费金融 · 支付:
+          - 蚂蚁 支小宝 / 百灵: 04_AI金融/11_公司研究/蚂蚁.md
+          - Stripe AI 与 Ramp: 04_AI金融/11_公司研究/Stripe与Ramp.md
+          - DeepSeek 在金融的应用案例: 04_AI金融/11_公司研究/DeepSeek金融应用.md
       - 产品研究:
           - BloombergGPT: 04_AI金融/12_产品研究/BloombergGPT.md
           - Claude for Financial Analysis: 04_AI金融/12_产品研究/Claude_for_Financial_Analysis.md
@@ -418,27 +413,25 @@ nav:
       - 商业与地理:
           - 广告 vs 订阅：AI 产品商业模式: 05_AI互联网/03_商业与地理/AI产品商业模式.md
           - 中国 AI 应用层大战：豆包 · Kimi · 元宝 · 通义: 05_AI互联网/03_商业与地理/中国AI应用层大战.md
-      - 公司研究:
-          - 搜索与浏览器:
-              - Perplexity: 05_AI互联网/11_公司研究/Perplexity.md
-              - The Browser Company（Arc / Dia）: 05_AI互联网/11_公司研究/The_Browser_Company.md
-          - Coding 与开发:
-              - Anysphere（Cursor）: 05_AI互联网/11_公司研究/Anysphere.md
-              - Vercel（v0）: 05_AI互联网/11_公司研究/Vercel.md
-              - Replit: 05_AI互联网/11_公司研究/Replit.md
-              - Lovable: 05_AI互联网/11_公司研究/Lovable.md
-              - Bolt.new: 05_AI互联网/11_公司研究/Bolt.md
-          - 社交与陪伴:
-              - Character.AI: 05_AI互联网/11_公司研究/Character.md
-      - 产品研究:
-          - 搜索 · 浏览器:
-              - Perplexity Pro 与 Comet 浏览器: 05_AI互联网/12_产品研究/Perplexity_Pro.md
-              - Arc Search / Dia: 05_AI互联网/12_产品研究/Arc_Search_Dia.md
-              - Google AI Overviews: 05_AI互联网/12_产品研究/Google_AI_Overviews.md
-              - Microsoft Copilot Pages: 05_AI互联网/12_产品研究/Copilot_Pages.md
-          - 聊天 · 中国应用:
-              - ChatGPT 作为互联网入口的演变: 05_AI互联网/12_产品研究/ChatGPT作为入口.md
-              - Kimi 探索版: 05_AI互联网/12_产品研究/Kimi探索版.md
+      - 公司：搜索与浏览器:
+          - Perplexity: 05_AI互联网/11_公司研究/Perplexity.md
+          - The Browser Company（Arc / Dia）: 05_AI互联网/11_公司研究/The_Browser_Company.md
+      - 公司：Coding 与开发:
+          - Anysphere（Cursor）: 05_AI互联网/11_公司研究/Anysphere.md
+          - Vercel（v0）: 05_AI互联网/11_公司研究/Vercel.md
+          - Replit: 05_AI互联网/11_公司研究/Replit.md
+          - Lovable: 05_AI互联网/11_公司研究/Lovable.md
+          - Bolt.new: 05_AI互联网/11_公司研究/Bolt.md
+      - 公司：社交与陪伴:
+          - Character.AI: 05_AI互联网/11_公司研究/Character.md
+      - 产品：搜索 · 浏览器:
+          - Perplexity Pro 与 Comet 浏览器: 05_AI互联网/12_产品研究/Perplexity_Pro.md
+          - Arc Search / Dia: 05_AI互联网/12_产品研究/Arc_Search_Dia.md
+          - Google AI Overviews: 05_AI互联网/12_产品研究/Google_AI_Overviews.md
+          - Microsoft Copilot Pages: 05_AI互联网/12_产品研究/Copilot_Pages.md
+      - 产品：聊天 · 中国应用:
+          - ChatGPT 作为互联网入口的演变: 05_AI互联网/12_产品研究/ChatGPT作为入口.md
+          - Kimi 探索版: 05_AI互联网/12_产品研究/Kimi探索版.md
 
   - 方法论:
       - 99_方法论/index.md

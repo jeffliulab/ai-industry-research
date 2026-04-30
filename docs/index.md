@@ -26,11 +26,19 @@ hide:
 
     [开始阅读 →](09_AI智能体/index.md){ .md-button }
 
+-   :material-robot: **人形机器人**
+
+    ---
+
+    Tesla Optimus · Figure · 宇树 · 智元 · Boston Dynamics 等 14+ 家。市场格局 · 中美对比 · 14 公司 + 5 产品。
+
+    [开始阅读 →](02_人形机器人/index.md){ .md-button }
+
 -   :material-robot-industrial: **机器人**
 
     ---
 
-    市场格局 · 产业链供应（减速器 / 丝杠 / 电机）· 大脑与数据（RFM 趋势）
+    传统工业 / 协作 / 服务机器人 + 外骨骼 + 产业链（减速器 / 丝杠 / 电机）。
 
     [开始阅读 →](02_机器人/index.md){ .md-button }
 
@@ -38,7 +46,7 @@ hide:
 
     ---
 
-    技术路线（VLA / VLM / World Model）· 数据与仿真（Sim2Real）
+    技术路线（VLA / VLM / World Model）· RFM 趋势 · 数据飞轮 · Sim2Real。
 
     [开始阅读 →](03_具身智能/index.md){ .md-button }
 
