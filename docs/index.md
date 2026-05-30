@@ -102,6 +102,13 @@ hide:
 
 ---
 
-[AI Notes · 人工智能学习笔记 →](https://jeffliulab.github.io/ai-notes/){ .md-button }
+## 友情链接
+
+[AI 学习笔记 →](https://jeffliulab.github.io/ai-notes/){ .md-button }
+[具身智能与机器人 →](https://jeffliulab.github.io/embodied-notes/){ .md-button }
+[神经科学 →](https://jeffliulab.github.io/neuro-sci-notes/){ .md-button }
+[金融学习笔记 →](https://jeffliulab.github.io/finance-notes/){ .md-button }
+
+---
 
 本站内容为个人整理的公开信息汇编与观点记录，**不构成任何投资建议**。更多见 [关于本站](关于本站.md)。
