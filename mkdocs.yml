@@ -70,6 +70,38 @@ extra:
       link: https://github.com/jeffliulab
   generator: false
 
+  # 站点集成：jeffliulab.com /ai-industry-research 渲染用的分类元数据 + 英文标题（与 ai-notes 同构）。
+  # key = nav: 里的顶级中文标题（自然键）。新增/重命名顶级分类时同步改这里。
+  site_integration:
+    categories:
+      人工智能: { id: ai, icon: 🧠, color: from-amber-500 to-yellow-500, order: 10 }
+      AI 智能体: { id: ai-agents, icon: 🤖, color: from-orange-500 to-amber-500, order: 20 }
+      人形机器人: { id: humanoid, icon: 🧍, color: from-violet-500 to-purple-500, order: 30 }
+      机器人: { id: robotics, icon: 🛠️, color: from-cyan-500 to-blue-500, order: 40 }
+      具身智能: { id: embodied, icon: 🦾, color: from-fuchsia-500 to-purple-500, order: 50 }
+      AI 医疗: { id: ai-healthcare, icon: 🏥, color: from-emerald-500 to-teal-500, order: 60 }
+      自动驾驶: { id: autonomous-driving, icon: 🚗, color: from-sky-500 to-blue-500, order: 70 }
+      脑机接口: { id: bci, icon: ⚡, color: from-red-500 to-pink-500, order: 80 }
+      AI 金融: { id: ai-finance, icon: 📈, color: from-green-500 to-emerald-500, order: 90 }
+      AI 互联网: { id: ai-internet, icon: 🌐, color: from-blue-500 to-indigo-500, order: 100 }
+      方法论: { id: methodology, icon: 🧭, color: from-slate-500 to-zinc-500, order: 110 }
+    skip:
+      categories: [首页, 日志]
+      basenames: [index.md, index.en.md]
+    # 该笔记本无 nav_translations（中文内容），这里给顶级分类补英文标题，使英文模式下导航/卡片显示英文。
+    translation_fallbacks:
+      人工智能: Artificial Intelligence
+      AI 智能体: AI Agents
+      人形机器人: Humanoid Robots
+      机器人: Robotics
+      具身智能: Embodied Intelligence
+      AI 医疗: AI in Healthcare
+      自动驾驶: Autonomous Driving
+      脑机接口: Brain-Computer Interface
+      AI 金融: AI in Finance
+      AI 互联网: AI & Internet
+      方法论: Methodology
+
 copyright: >
   © 2026 刘杰夫 · 内容为个人整理的公开信息汇编，不构成投资建议
 
