@@ -33,4 +33,4 @@ Physical Intelligence (π) · Skild AI · Covariant · Wayve · 银河通用 · 
 
 ## 姐妹站联动
 
-[AI Notes · 具身智能](https://jeffliulab.github.io/ai-notes/) 覆盖技术原理（VLA / 行走控制 / 模仿学习）；本板块覆盖**行业 / 公司 / 产品**维度。
+[AI Notes · 具身智能](https://jeffliulab.com/ai-notes) 覆盖技术原理（VLA / 行走控制 / 模仿学习）；本板块覆盖**行业 / 公司 / 产品**维度。

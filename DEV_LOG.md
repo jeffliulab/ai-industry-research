@@ -1,5 +1,7 @@
 # 开发笔记
 
+> ⚠️ **技术栈描述已过时（2026-06）**：本仓已不是 mkdocs 站点（`MkDocs Material` / `GitHub Actions → Pages` / `hooks/*.py` 均已退役删除）。现为 jeffliulab.com 内容仓，导航在 `notebook.config.json`，维护流程见主站仓 `docs/笔记维护.md`。下面的内容/研究记录仍有效。
+
 > 维护者备忘录。**不按版本追踪**——知识库是持续演化的文档，不需要 release cycle。
 >
 > 本文件记录设置关键决策和踩坑，以便未来维护时快速 onboard。

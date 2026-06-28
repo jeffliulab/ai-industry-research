@@ -1,6 +1,6 @@
 # AI 行业研究
 
-> 大模型、Agent、多模态、AI 基础设施。聚焦技术商业化与竞争格局，不陷入纯技术细节（那部分去 [AI Notes](https://jeffliulab.github.io/ai-notes/)）。
+> 大模型、Agent、多模态、AI 基础设施。聚焦技术商业化与竞争格局，不陷入纯技术细节（那部分去 [AI Notes](https://jeffliulab.com/ai-notes)）。
 
 ## 本板块怎么读
 

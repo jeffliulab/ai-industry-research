@@ -104,8 +104,8 @@ hide:
 
 ## 友情链接
 
-[AI 学习笔记 →](https://jeffliulab.github.io/ai-notes/){ .md-button }
-[具身智能与机器人 →](https://jeffliulab.github.io/embodied-notes/){ .md-button }
+[AI 学习笔记 →](https://jeffliulab.com/ai-notes){ .md-button }
+[具身智能与机器人 →](https://jeffliulab.com/embodied-notes){ .md-button }
 [神经科学 →](https://jeffliulab.github.io/neuro-sci-notes/){ .md-button }
 [金融学习笔记 →](https://jeffliulab.github.io/finance-notes/){ .md-button }
 

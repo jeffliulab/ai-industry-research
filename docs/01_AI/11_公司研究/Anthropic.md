@@ -2,7 +2,7 @@
 
 > 最后更新：2026-04-22
 >
-> Anthropic 是 Claude 系列模型背后的公司，AI 安全优先的"第二极"。本站作者是 Claude 的重度用户（[姐妹站 AI Notes](https://jeffliulab.github.io/ai-notes/) 的内容绝大部分由 Claude 协作完成）——所以**这篇对 Anthropic 会更熟悉，也会更主动披露这一偏好**。
+> Anthropic 是 Claude 系列模型背后的公司，AI 安全优先的"第二极"。本站作者是 Claude 的重度用户（[姐妹站 AI Notes](https://jeffliulab.com/ai-notes) 的内容绝大部分由 Claude 协作完成）——所以**这篇对 Anthropic 会更熟悉，也会更主动披露这一偏好**。
 
 ## 一、公司速览
 
@@ -189,7 +189,7 @@
 - [Google DeepMind](Google_DeepMind.md)
 
 **姐妹站**：
-- 想看 **Constitutional AI / RLHF / 对齐技术细节** —— 去 [AI Notes](https://jeffliulab.github.io/ai-notes/)
+- 想看 **Constitutional AI / RLHF / 对齐技术细节** —— 去 [AI Notes](https://jeffliulab.com/ai-notes)
 
 ---
 
