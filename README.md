@@ -2,22 +2,18 @@
 
 聚焦 AI、AI 智能体、机器人、具身智能、AI 医疗、自动驾驶、AI 金融、AI 互联网、脑机接口 的行业研究、公司调研与产品调研。
 
-**在线阅读**: https://jeffliulab.github.io/ai-industry-research/
+📖 **在线阅读**: https://jeffliulab.com/ai-industry-research
 
-## 姐妹站
+这是 [jeffliulab.com](https://jeffliulab.com) 的内容仓（git submodule）。`docs/` 是 Markdown 正文，`notebook.config.json` 是导航事实源。
 
-- [AI Notes · 人工智能学习笔记](https://jeffliulab.github.io/ai-notes/) — 偏技术原理与课程学习
-- AI Industry Research（本站）— 偏行业 · 公司 · 产品的调研笔记
+> 2026-06 起 mkdocs 已退役：本仓不再独立构建/发布，`jeffliulab.github.io/ai-industry-research` 仅 3 秒跳转到主站。
+> 维护方式（加/改笔记、配置、检查）见 `CLAUDE.md` 与主站仓 `docs/笔记维护.md`。
 
-## 本地预览
+## 姐妹仓
 
-```bash
-pip install -r requirements.txt
-python hooks/generate_dropdown.py
-mkdocs serve
-```
-
-打开 http://127.0.0.1:8000 查看。
+- `ai-notes` — 偏技术原理与课程学习（https://jeffliulab.com/ai-notes）
+- `embodied-notes` — 机器人与具身智能
+- AI Industry Research（本仓）— 偏行业 · 公司 · 产品的调研笔记
 
 ## 内容组织
 
