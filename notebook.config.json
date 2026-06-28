@@ -1,0 +1,1669 @@
+{
+  "schemaVersion": 1,
+  "notebookId": "ai-industry-research",
+  "categories": [
+    {
+      "id": "ai",
+      "title": "人工智能",
+      "titleEn": "Artificial Intelligence",
+      "icon": "🧠",
+      "color": "from-amber-500 to-yellow-500",
+      "order": 0,
+      "items": [
+        {
+          "title": "市场与资本",
+          "children": [
+            {
+              "title": "2026 AI 行业格局",
+              "slug": "01_AI/01_市场与资本/AI行业格局2026"
+            },
+            {
+              "title": "AI 商业化：订阅 · API · Token 经济",
+              "slug": "01_AI/01_市场与资本/AI商业化模式"
+            },
+            {
+              "title": "AI 融资与估值全景",
+              "slug": "01_AI/01_市场与资本/AI融资估值全景"
+            },
+            {
+              "title": "企业 AI 支出结构",
+              "slug": "01_AI/01_市场与资本/企业AI支出结构"
+            }
+          ]
+        },
+        {
+          "title": "技术前沿",
+          "children": [
+            {
+              "title": "大模型路线：Dense · MoE · Reasoning",
+              "slug": "01_AI/02_技术前沿/大模型路线对比"
+            },
+            {
+              "title": "推理模型专题：从 o1 到 R1 到 Claude 4",
+              "slug": "01_AI/02_技术前沿/推理模型专题"
+            },
+            {
+              "title": "多模态进展：文生图 · 视频 · 语音",
+              "slug": "01_AI/02_技术前沿/多模态模型进展"
+            },
+            {
+              "title": "小语言模型 SLM 专题",
+              "slug": "01_AI/02_技术前沿/SLM专题"
+            },
+            {
+              "title": "大模型评测体系：MMLU · SWE-bench · GPQA",
+              "slug": "01_AI/02_技术前沿/大模型评测体系"
+            }
+          ]
+        },
+        {
+          "title": "基础设施",
+          "children": [
+            {
+              "title": "AI 训练基础设施：GPU 供需与云厂格局",
+              "slug": "01_AI/03_基础设施/AI训练基础设施"
+            },
+            {
+              "title": "AI 芯片初创：Cerebras · Groq · Tenstorrent",
+              "slug": "01_AI/03_基础设施/AI芯片初创"
+            },
+            {
+              "title": "GPU 云初创：CoreWeave · Lambda · Together",
+              "slug": "01_AI/03_基础设施/GPU云初创"
+            },
+            {
+              "title": "AI 训练数据提供商：Scale · Surge · Snorkel",
+              "slug": "01_AI/03_基础设施/AI训练数据提供商"
+            },
+            {
+              "title": "数据中心与电力瓶颈",
+              "slug": "01_AI/03_基础设施/数据中心与电力"
+            }
+          ]
+        },
+        {
+          "title": "垂直 AI",
+          "children": [
+            {
+              "title": "垂直 AI 玩家全景",
+              "slug": "01_AI/04_智能体与应用/垂直AI全景"
+            }
+          ]
+        },
+        {
+          "title": "开源与生态",
+          "children": [
+            {
+              "title": "开源 vs 闭源：生态格局演变",
+              "slug": "01_AI/05_开源与生态/开源vs闭源"
+            }
+          ]
+        },
+        {
+          "title": "地缘与国家竞争",
+          "children": [
+            {
+              "title": "中美 AI 竞争全景",
+              "slug": "01_AI/06_地缘与国家竞争/中美AI竞争"
+            },
+            {
+              "title": "芯片出口管制与反制",
+              "slug": "01_AI/06_地缘与国家竞争/芯片出口管制"
+            },
+            {
+              "title": "中国 AI 梯队结构",
+              "slug": "01_AI/06_地缘与国家竞争/中国AI梯队结构"
+            },
+            {
+              "title": "欧洲 AI 路线与 EU AI Act",
+              "slug": "01_AI/06_地缘与国家竞争/欧洲AI路线"
+            }
+          ]
+        },
+        {
+          "title": "政策与治理",
+          "children": [
+            {
+              "title": "全球 AI 监管对照：美 · 欧 · 中 · 英",
+              "slug": "01_AI/07_政策与治理/全球AI监管对照"
+            }
+          ]
+        },
+        {
+          "title": "安全与负责任 AI",
+          "children": [
+            {
+              "title": "AI 安全与对齐研究产业化",
+              "slug": "01_AI/08_安全与负责任/AI安全与对齐"
+            },
+            {
+              "title": "AI 失败案例与事件库",
+              "slug": "01_AI/08_安全与负责任/AI失败案例"
+            }
+          ]
+        },
+        {
+          "title": "人才与实验室",
+          "children": [
+            {
+              "title": "AI 人才流动地图",
+              "slug": "01_AI/09_人才与实验室/AI人才流动地图"
+            },
+            {
+              "title": "顶级 AI 实验室概览",
+              "slug": "01_AI/09_人才与实验室/顶级实验室概览"
+            }
+          ]
+        },
+        {
+          "title": "年度展望",
+          "children": [
+            {
+              "title": "2026 年度预测与自评",
+              "slug": "01_AI/10_年度展望/2026年度预测"
+            }
+          ]
+        },
+        {
+          "title": "公司：美国头部",
+          "children": [
+            {
+              "title": "Anthropic",
+              "slug": "01_AI/11_公司研究/Anthropic"
+            },
+            {
+              "title": "OpenAI",
+              "slug": "01_AI/11_公司研究/OpenAI"
+            },
+            {
+              "title": "Google DeepMind",
+              "slug": "01_AI/11_公司研究/Google_DeepMind"
+            },
+            {
+              "title": "Meta AI / FAIR",
+              "slug": "01_AI/11_公司研究/Meta_AI_FAIR"
+            },
+            {
+              "title": "xAI",
+              "slug": "01_AI/11_公司研究/xAI"
+            }
+          ]
+        },
+        {
+          "title": "公司：海外挑战者",
+          "children": [
+            {
+              "title": "Mistral AI",
+              "slug": "01_AI/11_公司研究/Mistral"
+            },
+            {
+              "title": "Cohere",
+              "slug": "01_AI/11_公司研究/Cohere"
+            },
+            {
+              "title": "Perplexity",
+              "slug": "01_AI/11_公司研究/Perplexity"
+            },
+            {
+              "title": "Harvey AI",
+              "slug": "01_AI/11_公司研究/Harvey"
+            },
+            {
+              "title": "Glean",
+              "slug": "01_AI/11_公司研究/Glean"
+            }
+          ]
+        },
+        {
+          "title": "公司：中国大模型",
+          "children": [
+            {
+              "title": "DeepSeek",
+              "slug": "01_AI/11_公司研究/DeepSeek"
+            },
+            {
+              "title": "Moonshot 月之暗面",
+              "slug": "01_AI/11_公司研究/Moonshot"
+            },
+            {
+              "title": "智谱 AI",
+              "slug": "01_AI/11_公司研究/智谱AI"
+            },
+            {
+              "title": "MiniMax",
+              "slug": "01_AI/11_公司研究/MiniMax"
+            },
+            {
+              "title": "阿里通义",
+              "slug": "01_AI/11_公司研究/阿里通义"
+            },
+            {
+              "title": "字节豆包 / Seed",
+              "slug": "01_AI/11_公司研究/字节Seed"
+            },
+            {
+              "title": "百川智能",
+              "slug": "01_AI/11_公司研究/百川智能"
+            },
+            {
+              "title": "阶跃星辰",
+              "slug": "01_AI/11_公司研究/阶跃星辰"
+            },
+            {
+              "title": "腾讯混元",
+              "slug": "01_AI/11_公司研究/腾讯混元"
+            }
+          ]
+        },
+        {
+          "title": "产品：基础模型",
+          "children": [
+            {
+              "title": "Claude 家族",
+              "slug": "01_AI/12_产品研究/Claude家族"
+            },
+            {
+              "title": "ChatGPT 与 Codex",
+              "slug": "01_AI/12_产品研究/ChatGPT"
+            },
+            {
+              "title": "Gemini 系列",
+              "slug": "01_AI/12_产品研究/Gemini系列"
+            },
+            {
+              "title": "DeepSeek V3 / R1",
+              "slug": "01_AI/12_产品研究/DeepSeek_V3_R1"
+            },
+            {
+              "title": "Qwen 系列",
+              "slug": "01_AI/12_产品研究/Qwen系列"
+            }
+          ]
+        },
+        {
+          "title": "产品：生产力",
+          "children": [
+            {
+              "title": "Notebook LM",
+              "slug": "01_AI/12_产品研究/Notebook_LM"
+            }
+          ]
+        },
+        {
+          "title": "产品：多模态创作",
+          "children": [
+            {
+              "title": "Sora",
+              "slug": "01_AI/12_产品研究/Sora"
+            },
+            {
+              "title": "Runway",
+              "slug": "01_AI/12_产品研究/Runway"
+            },
+            {
+              "title": "Midjourney",
+              "slug": "01_AI/12_产品研究/Midjourney"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "title": "AI 智能体",
+      "titleEn": "AI Agents",
+      "icon": "🤖",
+      "color": "from-orange-500 to-amber-500",
+      "order": 1,
+      "items": [
+        {
+          "title": "Agent 基础",
+          "children": [
+            {
+              "title": "Agent 定义与分类：Copilot vs Agent",
+              "slug": "09_AI智能体/01_Agent基础/Agent定义与分类"
+            },
+            {
+              "title": "Agent 技术栈：Tool Use · MCP · Memory",
+              "slug": "09_AI智能体/01_Agent基础/Agent技术栈"
+            },
+            {
+              "title": "Multi-Agent 系统：LangGraph · CrewAI · AutoGen",
+              "slug": "09_AI智能体/01_Agent基础/Multi_Agent系统"
+            }
+          ]
+        },
+        {
+          "title": "Coding Agent",
+          "children": [
+            {
+              "title": "Coding Agent 格局：从 Copilot 到 Claude Code",
+              "slug": "09_AI智能体/02_Coding_Agent/Coding_Agent格局"
+            },
+            {
+              "title": "Coding Agent 评测：SWE-bench · Terminal-Bench",
+              "slug": "09_AI智能体/02_Coding_Agent/Coding_Agent评测"
+            },
+            {
+              "title": "三种形态：Terminal vs IDE vs Web",
+              "slug": "09_AI智能体/02_Coding_Agent/Terminal_vs_IDE_vs_Web"
+            }
+          ]
+        },
+        {
+          "title": "通用 Agent",
+          "children": [
+            {
+              "title": "Computer Use Agent：Claude CU · Operator",
+              "slug": "09_AI智能体/03_通用Agent/Computer_Use_Agent"
+            },
+            {
+              "title": "Deep Research 产品对比",
+              "slug": "09_AI智能体/03_通用Agent/Deep_Research产品"
+            },
+            {
+              "title": "浏览器 Agent：Browser Use · Comet · Dia",
+              "slug": "09_AI智能体/03_通用Agent/浏览器Agent"
+            }
+          ]
+        },
+        {
+          "title": "企业 Agent",
+          "children": [
+            {
+              "title": "AI Agent 行业现状与路线分歧",
+              "slug": "09_AI智能体/04_企业Agent/Agent行业现状"
+            },
+            {
+              "title": "企业 Agent 落地模式：Copilot · RAG · Fine-tune · Agent",
+              "slug": "09_AI智能体/04_企业Agent/企业Agent落地模式"
+            },
+            {
+              "title": "Agent 定价与商业模式",
+              "slug": "09_AI智能体/04_企业Agent/Agent定价与商业模式"
+            }
+          ]
+        },
+        {
+          "title": "评测与安全",
+          "children": [
+            {
+              "title": "Agent 评测体系：τ-bench · OSWorld · GAIA",
+              "slug": "09_AI智能体/05_评测与安全/Agent评测体系"
+            },
+            {
+              "title": "Agent 安全边界：Prompt Injection · 权限 · 责任",
+              "slug": "09_AI智能体/05_评测与安全/Agent安全边界"
+            }
+          ]
+        },
+        {
+          "title": "公司研究",
+          "children": [
+            {
+              "title": "Anysphere（Cursor）",
+              "slug": "09_AI智能体/11_公司研究/Anysphere"
+            },
+            {
+              "title": "Cognition（Devin）",
+              "slug": "09_AI智能体/11_公司研究/Cognition"
+            },
+            {
+              "title": "Sierra",
+              "slug": "09_AI智能体/11_公司研究/Sierra"
+            },
+            {
+              "title": "Adept",
+              "slug": "09_AI智能体/11_公司研究/Adept"
+            },
+            {
+              "title": "Factory AI",
+              "slug": "09_AI智能体/11_公司研究/Factory_AI"
+            },
+            {
+              "title": "Butterfly Effect（Manus）",
+              "slug": "09_AI智能体/11_公司研究/Butterfly_Effect_Manus"
+            }
+          ]
+        },
+        {
+          "title": "产品：Coding Agent",
+          "children": [
+            {
+              "title": "Claude Code",
+              "slug": "09_AI智能体/12_产品研究/Claude_Code"
+            },
+            {
+              "title": "Cursor",
+              "slug": "09_AI智能体/12_产品研究/Cursor"
+            },
+            {
+              "title": "Windsurf",
+              "slug": "09_AI智能体/12_产品研究/Windsurf"
+            },
+            {
+              "title": "OpenAI Codex CLI",
+              "slug": "09_AI智能体/12_产品研究/OpenAI_Codex_CLI"
+            },
+            {
+              "title": "GitHub Copilot",
+              "slug": "09_AI智能体/12_产品研究/GitHub_Copilot"
+            },
+            {
+              "title": "Devin",
+              "slug": "09_AI智能体/12_产品研究/Devin"
+            },
+            {
+              "title": "Claude Agent SDK",
+              "slug": "09_AI智能体/12_产品研究/Claude_Agent_SDK"
+            }
+          ]
+        },
+        {
+          "title": "产品：Web · No-Code Agent",
+          "children": [
+            {
+              "title": "v0",
+              "slug": "09_AI智能体/12_产品研究/v0"
+            },
+            {
+              "title": "Bolt.new",
+              "slug": "09_AI智能体/12_产品研究/Bolt_new"
+            },
+            {
+              "title": "Lovable",
+              "slug": "09_AI智能体/12_产品研究/Lovable"
+            },
+            {
+              "title": "Replit Agent",
+              "slug": "09_AI智能体/12_产品研究/Replit_Agent"
+            }
+          ]
+        },
+        {
+          "title": "产品：通用 Agent",
+          "children": [
+            {
+              "title": "ChatGPT Agent（Operator）",
+              "slug": "09_AI智能体/12_产品研究/ChatGPT_Agent"
+            },
+            {
+              "title": "Claude Computer Use",
+              "slug": "09_AI智能体/12_产品研究/Claude_Computer_Use"
+            },
+            {
+              "title": "Manus",
+              "slug": "09_AI智能体/12_产品研究/Manus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "humanoid",
+      "title": "人形机器人",
+      "titleEn": "Humanoid Robots",
+      "icon": "🧍",
+      "color": "from-violet-500 to-purple-500",
+      "order": 2,
+      "items": [
+        {
+          "title": "市场与格局",
+          "children": [
+            {
+              "title": "2026 人形机器人格局",
+              "slug": "02_人形机器人/01_市场与格局/人形格局2026"
+            },
+            {
+              "title": "中美人形机器人产业对比",
+              "slug": "02_人形机器人/01_市场与格局/中美产业对比"
+            }
+          ]
+        },
+        {
+          "title": "技术与本体",
+          "children": [
+            {
+              "title": "人形技术路线：双足 · 灵巧手 · 行走控制",
+              "slug": "02_人形机器人/02_技术与本体/技术路线"
+            },
+            {
+              "title": "人形供应链 BOM",
+              "slug": "02_人形机器人/02_技术与本体/供应链"
+            }
+          ]
+        },
+        {
+          "title": "商业与监管",
+          "children": [
+            {
+              "title": "人形机器人投融资全景",
+              "slug": "02_人形机器人/03_商业与监管/投融资全景"
+            },
+            {
+              "title": "2026 年度预测",
+              "slug": "02_人形机器人/03_商业与监管/年度预测2026"
+            }
+          ]
+        },
+        {
+          "title": "公司：美国头部",
+          "children": [
+            {
+              "title": "Tesla Optimus",
+              "slug": "02_人形机器人/11_公司研究/Tesla_Optimus"
+            },
+            {
+              "title": "Figure AI",
+              "slug": "02_人形机器人/11_公司研究/Figure"
+            },
+            {
+              "title": "Boston Dynamics",
+              "slug": "02_人形机器人/11_公司研究/Boston_Dynamics"
+            },
+            {
+              "title": "Agility Robotics",
+              "slug": "02_人形机器人/11_公司研究/Agility"
+            },
+            {
+              "title": "1X Technologies",
+              "slug": "02_人形机器人/11_公司研究/1X"
+            },
+            {
+              "title": "Apptronik",
+              "slug": "02_人形机器人/11_公司研究/Apptronik"
+            },
+            {
+              "title": "Sanctuary AI",
+              "slug": "02_人形机器人/11_公司研究/Sanctuary"
+            }
+          ]
+        },
+        {
+          "title": "公司：欧洲",
+          "children": [
+            {
+              "title": "Neura Robotics（德国）",
+              "slug": "02_人形机器人/11_公司研究/Neura_Robotics"
+            }
+          ]
+        },
+        {
+          "title": "公司：中国头部",
+          "children": [
+            {
+              "title": "宇树科技",
+              "slug": "02_人形机器人/11_公司研究/宇树"
+            },
+            {
+              "title": "智元机器人",
+              "slug": "02_人形机器人/11_公司研究/智元"
+            },
+            {
+              "title": "优必选",
+              "slug": "02_人形机器人/11_公司研究/优必选"
+            },
+            {
+              "title": "傅利叶",
+              "slug": "02_人形机器人/11_公司研究/傅利叶"
+            },
+            {
+              "title": "星动纪元",
+              "slug": "02_人形机器人/11_公司研究/星动纪元"
+            },
+            {
+              "title": "乐聚机器人",
+              "slug": "02_人形机器人/11_公司研究/乐聚"
+            }
+          ]
+        },
+        {
+          "title": "产品研究",
+          "children": [
+            {
+              "title": "Optimus 系列",
+              "slug": "02_人形机器人/12_产品研究/Optimus"
+            },
+            {
+              "title": "Figure 02 / 03",
+              "slug": "02_人形机器人/12_产品研究/Figure_02_03"
+            },
+            {
+              "title": "Unitree G1 / H1",
+              "slug": "02_人形机器人/12_产品研究/Unitree_G1_H1"
+            },
+            {
+              "title": "Atlas Electric",
+              "slug": "02_人形机器人/12_产品研究/Atlas_Electric"
+            },
+            {
+              "title": "1X NEO",
+              "slug": "02_人形机器人/12_产品研究/NEO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robotics",
+      "title": "机器人",
+      "titleEn": "Robotics",
+      "icon": "🛠️",
+      "color": "from-cyan-500 to-blue-500",
+      "order": 3,
+      "items": [
+        {
+          "title": "市场与格局",
+          "children": [
+            {
+              "title": "五类机器人市场：工业 · 协作 · 服务 · 人形 · 外骨骼",
+              "slug": "02_机器人/01_市场与格局/三类机器人市场"
+            },
+            {
+              "title": "外骨骼：康复 · 工业 · 军事",
+              "slug": "02_机器人/01_市场与格局/外骨骼"
+            }
+          ]
+        },
+        {
+          "title": "产业链",
+          "children": [
+            {
+              "title": "核心零部件：减速器 · 丝杠 · 电机",
+              "slug": "02_机器人/02_产业链/核心零部件"
+            },
+            {
+              "title": "量产的关键瓶颈",
+              "slug": "02_机器人/02_产业链/量产瓶颈"
+            }
+          ]
+        },
+        {
+          "title": "公司：医疗康复外骨骼",
+          "children": [
+            {
+              "title": "ReWalk / Lifeward",
+              "slug": "02_机器人/11_公司研究/ReWalk"
+            },
+            {
+              "title": "Cyberdyne（HAL）",
+              "slug": "02_机器人/11_公司研究/Cyberdyne"
+            },
+            {
+              "title": "Ekso Bionics",
+              "slug": "02_机器人/11_公司研究/Ekso_Bionics"
+            },
+            {
+              "title": "Wandercraft",
+              "slug": "02_机器人/11_公司研究/Wandercraft"
+            },
+            {
+              "title": "程天科技",
+              "slug": "02_机器人/11_公司研究/程天科技"
+            },
+            {
+              "title": "大艾机器人",
+              "slug": "02_机器人/11_公司研究/大艾机器人"
+            }
+          ]
+        },
+        {
+          "title": "公司：工业 · 消费外骨骼",
+          "children": [
+            {
+              "title": "Sarcos Technology",
+              "slug": "02_机器人/11_公司研究/Sarcos"
+            },
+            {
+              "title": "Ottobock（含 SuitX）",
+              "slug": "02_机器人/11_公司研究/Ottobock"
+            },
+            {
+              "title": "Roam Robotics",
+              "slug": "02_机器人/11_公司研究/Roam_Robotics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "embodied",
+      "title": "具身智能",
+      "titleEn": "Embodied Intelligence",
+      "icon": "🦾",
+      "color": "from-fuchsia-500 to-purple-500",
+      "order": 4,
+      "items": [
+        {
+          "title": "技术路线",
+          "children": [
+            {
+              "title": "技术路线：VLA · VLM · World Model",
+              "slug": "03_具身智能/01_技术路线/技术路线"
+            },
+            {
+              "title": "机器人基础模型 RFM 趋势",
+              "slug": "03_具身智能/01_技术路线/RFM趋势"
+            },
+            {
+              "title": "评测基准",
+              "slug": "03_具身智能/01_技术路线/评测基准"
+            },
+            {
+              "title": "Scaling Law 讨论",
+              "slug": "03_具身智能/01_技术路线/Scaling_Law讨论"
+            }
+          ]
+        },
+        {
+          "title": "数据与仿真",
+          "children": [
+            {
+              "title": "数据采集：遥操作 · 仿真 · 真机",
+              "slug": "03_具身智能/02_数据与仿真/数据采集"
+            },
+            {
+              "title": "Sim2Real 与仿真平台：Isaac · MuJoCo · Genesis",
+              "slug": "03_具身智能/02_数据与仿真/Sim2Real与仿真平台"
+            },
+            {
+              "title": "数据飞轮：从采集到训练",
+              "slug": "03_具身智能/02_数据与仿真/数据飞轮"
+            }
+          ]
+        },
+        {
+          "title": "公司研究",
+          "children": [
+            {
+              "title": "Physical Intelligence（π）",
+              "slug": "03_具身智能/11_公司研究/Physical_Intelligence"
+            },
+            {
+              "title": "Skild AI",
+              "slug": "03_具身智能/11_公司研究/Skild"
+            },
+            {
+              "title": "Covariant",
+              "slug": "03_具身智能/11_公司研究/Covariant"
+            },
+            {
+              "title": "Wayve",
+              "slug": "03_具身智能/11_公司研究/Wayve"
+            },
+            {
+              "title": "银河通用 Galbot",
+              "slug": "03_具身智能/11_公司研究/银河通用"
+            },
+            {
+              "title": "千寻智能",
+              "slug": "03_具身智能/11_公司研究/千寻智能"
+            },
+            {
+              "title": "穹彻智能",
+              "slug": "03_具身智能/11_公司研究/穹彻智能"
+            }
+          ]
+        },
+        {
+          "title": "产品研究",
+          "children": [
+            {
+              "title": "π0 / π0.5",
+              "slug": "03_具身智能/12_产品研究/π0"
+            },
+            {
+              "title": "Helix（Figure）",
+              "slug": "03_具身智能/12_产品研究/Helix"
+            },
+            {
+              "title": "GR00T（NVIDIA）",
+              "slug": "03_具身智能/12_产品研究/GR00T"
+            },
+            {
+              "title": "RT-2 / OpenVLA",
+              "slug": "03_具身智能/12_产品研究/RT2_OpenVLA"
+            },
+            {
+              "title": "RDT（清华）",
+              "slug": "03_具身智能/12_产品研究/RDT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-healthcare",
+      "title": "AI 医疗",
+      "titleEn": "AI in Healthcare",
+      "icon": "🏥",
+      "color": "from-emerald-500 to-teal-500",
+      "order": 5,
+      "items": [
+        {
+          "title": "市场与资本",
+          "children": [
+            {
+              "title": "AI 医疗市场格局",
+              "slug": "06_AI医疗/01_市场与资本/AI医疗市场格局"
+            },
+            {
+              "title": "AI 医疗投融资",
+              "slug": "06_AI医疗/01_市场与资本/AI医疗投融资"
+            }
+          ]
+        },
+        {
+          "title": "药物发现与合成生物",
+          "children": [
+            {
+              "title": "AI 药物发现全景",
+              "slug": "06_AI医疗/02_药物发现与合成生物/AI药物发现"
+            },
+            {
+              "title": "蛋白质设计革命：AlphaFold 生态",
+              "slug": "06_AI医疗/02_药物发现与合成生物/蛋白质设计"
+            }
+          ]
+        },
+        {
+          "title": "医疗影像与诊断",
+          "children": [
+            {
+              "title": "医疗影像 AI 格局",
+              "slug": "06_AI医疗/03_医疗影像与诊断/医疗影像AI"
+            },
+            {
+              "title": "AI 病理与放射",
+              "slug": "06_AI医疗/03_医疗影像与诊断/AI病理与放射"
+            }
+          ]
+        },
+        {
+          "title": "临床 Copilot",
+          "children": [
+            {
+              "title": "临床 Copilot 全景：Abridge · Nabla · Epic AI",
+              "slug": "06_AI医疗/04_临床Copilot/临床Copilot全景"
+            }
+          ]
+        },
+        {
+          "title": "政策与监管",
+          "children": [
+            {
+              "title": "全球医疗 AI 监管：FDA · NMPA · HIPAA",
+              "slug": "06_AI医疗/05_政策与监管/全球医疗AI监管"
+            }
+          ]
+        },
+        {
+          "title": "投融资",
+          "children": [
+            {
+              "title": "医疗 AI 投融资全景",
+              "slug": "06_AI医疗/06_投融资/医疗AI投融资"
+            }
+          ]
+        },
+        {
+          "title": "中美对比",
+          "children": [
+            {
+              "title": "中美医疗 AI 产业对比",
+              "slug": "06_AI医疗/07_中美对比/中美医疗AI对比"
+            }
+          ]
+        },
+        {
+          "title": "公司：美国药物发现",
+          "children": [
+            {
+              "title": "Recursion",
+              "slug": "06_AI医疗/11_公司研究/Recursion"
+            },
+            {
+              "title": "Insilico Medicine",
+              "slug": "06_AI医疗/11_公司研究/Insilico"
+            },
+            {
+              "title": "Absci",
+              "slug": "06_AI医疗/11_公司研究/Absci"
+            },
+            {
+              "title": "Generate Biomedicines",
+              "slug": "06_AI医疗/11_公司研究/Generate_Biomedicines"
+            },
+            {
+              "title": "Isomorphic Labs",
+              "slug": "06_AI医疗/11_公司研究/Isomorphic_Labs"
+            }
+          ]
+        },
+        {
+          "title": "公司：临床 Copilot",
+          "children": [
+            {
+              "title": "Abridge",
+              "slug": "06_AI医疗/11_公司研究/Abridge"
+            },
+            {
+              "title": "Nabla",
+              "slug": "06_AI医疗/11_公司研究/Nabla"
+            },
+            {
+              "title": "Hippocratic AI",
+              "slug": "06_AI医疗/11_公司研究/Hippocratic_AI"
+            }
+          ]
+        },
+        {
+          "title": "公司：中国梯队",
+          "children": [
+            {
+              "title": "推想科技",
+              "slug": "06_AI医疗/11_公司研究/推想科技"
+            },
+            {
+              "title": "深透科技",
+              "slug": "06_AI医疗/11_公司研究/深透科技"
+            }
+          ]
+        },
+        {
+          "title": "产品研究",
+          "children": [
+            {
+              "title": "AlphaFold",
+              "slug": "06_AI医疗/12_产品研究/AlphaFold"
+            },
+            {
+              "title": "RFdiffusion",
+              "slug": "06_AI医疗/12_产品研究/RFdiffusion"
+            },
+            {
+              "title": "Abridge Ambient",
+              "slug": "06_AI医疗/12_产品研究/Abridge_Ambient"
+            },
+            {
+              "title": "Nabla Copilot",
+              "slug": "06_AI医疗/12_产品研究/Nabla_Copilot"
+            },
+            {
+              "title": "Hippocratic Polaris",
+              "slug": "06_AI医疗/12_产品研究/Hippocratic_Polaris"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "autonomous-driving",
+      "title": "自动驾驶",
+      "titleEn": "Autonomous Driving",
+      "icon": "🚗",
+      "color": "from-sky-500 to-blue-500",
+      "order": 6,
+      "items": [
+        {
+          "title": "技术路线",
+          "children": [
+            {
+              "title": "自驾技术路线：端到端 vs 模块化",
+              "slug": "07_自动驾驶/01_技术路线/自驾技术路线"
+            },
+            {
+              "title": "World Model 与 BEV+Transformer",
+              "slug": "07_自动驾驶/01_技术路线/World_Model与BEV"
+            }
+          ]
+        },
+        {
+          "title": "商业化与 Robotaxi",
+          "children": [
+            {
+              "title": "Robotaxi 经济学：Waymo · 萝卜快跑 · Zoox",
+              "slug": "07_自动驾驶/02_商业化与Robotaxi/Robotaxi经济学"
+            },
+            {
+              "title": "自驾商业模式：L2+ · Level 4 · Solo Drive",
+              "slug": "07_自动驾驶/02_商业化与Robotaxi/自驾商业模式"
+            }
+          ]
+        },
+        {
+          "title": "政策与监管",
+          "children": [
+            {
+              "title": "全球自驾监管：L3/L4 · 事故责任",
+              "slug": "07_自动驾驶/03_政策与监管/全球自驾监管"
+            }
+          ]
+        },
+        {
+          "title": "投融资",
+          "children": [
+            {
+              "title": "自驾投融资全景",
+              "slug": "07_自动驾驶/04_投融资/自驾投融资全景"
+            }
+          ]
+        },
+        {
+          "title": "中美对比",
+          "children": [
+            {
+              "title": "中美自驾产业对比",
+              "slug": "07_自动驾驶/05_中美对比/中美自驾对比"
+            }
+          ]
+        },
+        {
+          "title": "年度展望",
+          "children": [
+            {
+              "title": "2026 年度预测",
+              "slug": "07_自动驾驶/06_年度展望/2026年度预测"
+            }
+          ]
+        },
+        {
+          "title": "公司：美国头部",
+          "children": [
+            {
+              "title": "Waymo",
+              "slug": "07_自动驾驶/11_公司研究/Waymo"
+            },
+            {
+              "title": "Cruise",
+              "slug": "07_自动驾驶/11_公司研究/Cruise"
+            },
+            {
+              "title": "Tesla FSD",
+              "slug": "07_自动驾驶/11_公司研究/Tesla_FSD"
+            },
+            {
+              "title": "Zoox",
+              "slug": "07_自动驾驶/11_公司研究/Zoox"
+            },
+            {
+              "title": "Aurora",
+              "slug": "07_自动驾驶/11_公司研究/Aurora"
+            },
+            {
+              "title": "Motional",
+              "slug": "07_自动驾驶/11_公司研究/Motional"
+            }
+          ]
+        },
+        {
+          "title": "公司：中国头部",
+          "children": [
+            {
+              "title": "百度萝卜快跑",
+              "slug": "07_自动驾驶/11_公司研究/萝卜快跑"
+            },
+            {
+              "title": "小马智行",
+              "slug": "07_自动驾驶/11_公司研究/小马智行"
+            },
+            {
+              "title": "文远知行",
+              "slug": "07_自动驾驶/11_公司研究/文远知行"
+            },
+            {
+              "title": "Momenta",
+              "slug": "07_自动驾驶/11_公司研究/Momenta"
+            }
+          ]
+        },
+        {
+          "title": "产品研究",
+          "children": [
+            {
+              "title": "Waymo Driver",
+              "slug": "07_自动驾驶/12_产品研究/Waymo_Driver"
+            },
+            {
+              "title": "Tesla FSD 产品",
+              "slug": "07_自动驾驶/12_产品研究/Tesla_FSD产品"
+            },
+            {
+              "title": "百度 Apollo",
+              "slug": "07_自动驾驶/12_产品研究/百度Apollo"
+            },
+            {
+              "title": "华为 ADS",
+              "slug": "07_自动驾驶/12_产品研究/华为ADS"
+            },
+            {
+              "title": "小鹏 XNGP",
+              "slug": "07_自动驾驶/12_产品研究/小鹏XNGP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bci",
+      "title": "脑机接口",
+      "titleEn": "Brain-Computer Interface",
+      "icon": "⚡",
+      "color": "from-red-500 to-pink-500",
+      "order": 7,
+      "items": [
+        {
+          "title": "技术路线",
+          "children": [
+            {
+              "title": "BCI 技术路线：侵入式 vs 非侵入式",
+              "slug": "08_脑机接口/01_技术路线/BCI技术路线"
+            },
+            {
+              "title": "电极与信号：ECoG · EEG · 单神经元",
+              "slug": "08_脑机接口/01_技术路线/电极与信号"
+            }
+          ]
+        },
+        {
+          "title": "应用场景",
+          "children": [
+            {
+              "title": "BCI 医疗应用：瘫痪恢复 · 视觉 · 神经假体",
+              "slug": "08_脑机接口/02_应用场景/BCI医疗应用"
+            },
+            {
+              "title": "消费级 BCI 与增强：注意力 · 情绪 · 控制",
+              "slug": "08_脑机接口/02_应用场景/消费级BCI"
+            }
+          ]
+        },
+        {
+          "title": "监管与伦理",
+          "children": [
+            {
+              "title": "BCI 监管与神经伦理：FDA · NMPA · 神经权利",
+              "slug": "08_脑机接口/03_监管与伦理/BCI监管与伦理"
+            }
+          ]
+        },
+        {
+          "title": "投融资",
+          "children": [
+            {
+              "title": "BCI 投融资全景",
+              "slug": "08_脑机接口/04_投融资/BCI投融资全景"
+            }
+          ]
+        },
+        {
+          "title": "中美对比",
+          "children": [
+            {
+              "title": "中美 BCI 产业对比",
+              "slug": "08_脑机接口/05_中美对比/中美BCI对比"
+            }
+          ]
+        },
+        {
+          "title": "公司：美国头部",
+          "children": [
+            {
+              "title": "Neuralink",
+              "slug": "08_脑机接口/11_公司研究/Neuralink"
+            },
+            {
+              "title": "Synchron",
+              "slug": "08_脑机接口/11_公司研究/Synchron"
+            },
+            {
+              "title": "Precision Neuroscience",
+              "slug": "08_脑机接口/11_公司研究/Precision_Neuroscience"
+            },
+            {
+              "title": "Paradromics",
+              "slug": "08_脑机接口/11_公司研究/Paradromics"
+            },
+            {
+              "title": "Blackrock Neurotech",
+              "slug": "08_脑机接口/11_公司研究/Blackrock_Neurotech"
+            },
+            {
+              "title": "BrainGate（学术联盟）",
+              "slug": "08_脑机接口/11_公司研究/BrainGate"
+            },
+            {
+              "title": "Science Corporation（视觉 BCI）",
+              "slug": "08_脑机接口/11_公司研究/Science_Corporation"
+            },
+            {
+              "title": "Motif Neurotech（微创刺激）",
+              "slug": "08_脑机接口/11_公司研究/Motif_Neurotech"
+            }
+          ]
+        },
+        {
+          "title": "公司：神经刺激 · 脊髓",
+          "children": [
+            {
+              "title": "Onward Medical（脊髓损伤）",
+              "slug": "08_脑机接口/11_公司研究/Onward_Medical"
+            }
+          ]
+        },
+        {
+          "title": "公司：非侵入 · 消费",
+          "children": [
+            {
+              "title": "Kernel",
+              "slug": "08_脑机接口/11_公司研究/Kernel"
+            }
+          ]
+        },
+        {
+          "title": "公司：欧洲",
+          "children": [
+            {
+              "title": "Inbrain Neuroelectronics（石墨烯）",
+              "slug": "08_脑机接口/11_公司研究/Inbrain"
+            }
+          ]
+        },
+        {
+          "title": "公司：中国头部",
+          "children": [
+            {
+              "title": "脑虎科技",
+              "slug": "08_脑机接口/11_公司研究/脑虎科技"
+            },
+            {
+              "title": "上海阶梯医疗（StairMed）",
+              "slug": "08_脑机接口/11_公司研究/上海阶梯医疗"
+            },
+            {
+              "title": "BrainCo 强脑科技",
+              "slug": "08_脑机接口/11_公司研究/BrainCo"
+            }
+          ]
+        },
+        {
+          "title": "产品研究",
+          "children": [
+            {
+              "title": "Neuralink N1 植入",
+              "slug": "08_脑机接口/12_产品研究/Neuralink_N1"
+            },
+            {
+              "title": "Synchron Stentrode",
+              "slug": "08_脑机接口/12_产品研究/Synchron_Stentrode"
+            },
+            {
+              "title": "Precision NSX",
+              "slug": "08_脑机接口/12_产品研究/Precision_NSX"
+            },
+            {
+              "title": "StairMed NEO",
+              "slug": "08_脑机接口/12_产品研究/StairMed_NEO"
+            },
+            {
+              "title": "BrainGate 系统",
+              "slug": "08_脑机接口/12_产品研究/BrainGate系统"
+            },
+            {
+              "title": "BrainCo Focus",
+              "slug": "08_脑机接口/12_产品研究/BrainCo_Focus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-finance",
+      "title": "AI 金融",
+      "titleEn": "AI in Finance",
+      "icon": "📈",
+      "color": "from-green-500 to-emerald-500",
+      "order": 8,
+      "items": [
+        {
+          "title": "全景与场景",
+          "children": [
+            {
+              "title": "金融 AI 六类场景落地",
+              "slug": "04_AI金融/01_全景与场景/金融落地全景"
+            },
+            {
+              "title": "大模型在投研的应用",
+              "slug": "04_AI金融/01_全景与场景/投研应用现状"
+            },
+            {
+              "title": "AI 在银行 · 保险 · 券商的差异化落地",
+              "slug": "04_AI金融/01_全景与场景/银保证差异化"
+            }
+          ]
+        },
+        {
+          "title": "专题",
+          "children": [
+            {
+              "title": "AI 量化 vs 传统量化",
+              "slug": "04_AI金融/02_专题/AI量化"
+            },
+            {
+              "title": "Agent 在金融流程自动化的应用",
+              "slug": "04_AI金融/02_专题/Agent在金融"
+            }
+          ]
+        },
+        {
+          "title": "治理与监管",
+          "children": [
+            {
+              "title": "金融大模型的监管与合规",
+              "slug": "04_AI金融/03_治理与监管/金融监管合规"
+            }
+          ]
+        },
+        {
+          "title": "公司：买方 · 卖方",
+          "children": [
+            {
+              "title": "BlackRock Aladdin AI",
+              "slug": "04_AI金融/11_公司研究/BlackRock"
+            },
+            {
+              "title": "JPMorgan COIN / IndexGPT",
+              "slug": "04_AI金融/11_公司研究/JPMorgan"
+            },
+            {
+              "title": "Renaissance · Two Sigma · Bridgewater",
+              "slug": "04_AI金融/11_公司研究/Renaissance_Two_Sigma_Bridgewater"
+            }
+          ]
+        },
+        {
+          "title": "公司：数据与工具",
+          "children": [
+            {
+              "title": "Bloomberg 与 BloombergGPT",
+              "slug": "04_AI金融/11_公司研究/Bloomberg"
+            },
+            {
+              "title": "AlphaSense",
+              "slug": "04_AI金融/11_公司研究/AlphaSense"
+            },
+            {
+              "title": "Kensho（S&P）",
+              "slug": "04_AI金融/11_公司研究/Kensho"
+            },
+            {
+              "title": "同花顺 · 恒生电子",
+              "slug": "04_AI金融/11_公司研究/同花顺_恒生电子"
+            }
+          ]
+        },
+        {
+          "title": "公司：消费金融 · 支付",
+          "children": [
+            {
+              "title": "蚂蚁 支小宝 / 百灵",
+              "slug": "04_AI金融/11_公司研究/蚂蚁"
+            },
+            {
+              "title": "Stripe AI 与 Ramp",
+              "slug": "04_AI金融/11_公司研究/Stripe与Ramp"
+            },
+            {
+              "title": "DeepSeek 在金融的应用案例",
+              "slug": "04_AI金融/11_公司研究/DeepSeek金融应用"
+            }
+          ]
+        },
+        {
+          "title": "产品研究",
+          "children": [
+            {
+              "title": "BloombergGPT",
+              "slug": "04_AI金融/12_产品研究/BloombergGPT"
+            },
+            {
+              "title": "Claude for Financial Analysis",
+              "slug": "04_AI金融/12_产品研究/Claude_for_Financial_Analysis"
+            },
+            {
+              "title": "IndexGPT（JPM）",
+              "slug": "04_AI金融/12_产品研究/IndexGPT"
+            },
+            {
+              "title": "Aladdin Copilot",
+              "slug": "04_AI金融/12_产品研究/Aladdin_Copilot"
+            },
+            {
+              "title": "AlphaSense 产品拆解",
+              "slug": "04_AI金融/12_产品研究/AlphaSense产品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-internet",
+      "title": "AI 互联网",
+      "titleEn": "AI & Internet",
+      "icon": "🌐",
+      "color": "from-blue-500 to-indigo-500",
+      "order": 9,
+      "items": [
+        {
+          "title": "入口重构",
+          "children": [
+            {
+              "title": "生成式搜索革命：Perplexity · SearchGPT · AI Overviews",
+              "slug": "05_AI互联网/01_入口重构/生成式搜索革命"
+            },
+            {
+              "title": "AI 浏览器崛起：Comet · Arc · Dia",
+              "slug": "05_AI互联网/01_入口重构/AI浏览器崛起"
+            }
+          ]
+        },
+        {
+          "title": "产品品类",
+          "children": [
+            {
+              "title": "AI Coding 产品格局",
+              "slug": "05_AI互联网/02_产品品类/AI_Coding产品格局"
+            },
+            {
+              "title": "AI 原生社交与陪伴",
+              "slug": "05_AI互联网/02_产品品类/AI原生社交"
+            }
+          ]
+        },
+        {
+          "title": "商业与地理",
+          "children": [
+            {
+              "title": "广告 vs 订阅：AI 产品商业模式",
+              "slug": "05_AI互联网/03_商业与地理/AI产品商业模式"
+            },
+            {
+              "title": "中国 AI 应用层大战：豆包 · Kimi · 元宝 · 通义",
+              "slug": "05_AI互联网/03_商业与地理/中国AI应用层大战"
+            }
+          ]
+        },
+        {
+          "title": "公司：搜索与浏览器",
+          "children": [
+            {
+              "title": "Perplexity",
+              "slug": "05_AI互联网/11_公司研究/Perplexity"
+            },
+            {
+              "title": "The Browser Company（Arc / Dia）",
+              "slug": "05_AI互联网/11_公司研究/The_Browser_Company"
+            }
+          ]
+        },
+        {
+          "title": "公司：Coding 与开发",
+          "children": [
+            {
+              "title": "Anysphere（Cursor）",
+              "slug": "05_AI互联网/11_公司研究/Anysphere"
+            },
+            {
+              "title": "Vercel（v0）",
+              "slug": "05_AI互联网/11_公司研究/Vercel"
+            },
+            {
+              "title": "Replit",
+              "slug": "05_AI互联网/11_公司研究/Replit"
+            },
+            {
+              "title": "Lovable",
+              "slug": "05_AI互联网/11_公司研究/Lovable"
+            },
+            {
+              "title": "Bolt.new",
+              "slug": "05_AI互联网/11_公司研究/Bolt"
+            }
+          ]
+        },
+        {
+          "title": "公司：社交与陪伴",
+          "children": [
+            {
+              "title": "Character.AI",
+              "slug": "05_AI互联网/11_公司研究/Character"
+            }
+          ]
+        },
+        {
+          "title": "产品：搜索 · 浏览器",
+          "children": [
+            {
+              "title": "Perplexity Pro 与 Comet 浏览器",
+              "slug": "05_AI互联网/12_产品研究/Perplexity_Pro"
+            },
+            {
+              "title": "Arc Search / Dia",
+              "slug": "05_AI互联网/12_产品研究/Arc_Search_Dia"
+            },
+            {
+              "title": "Google AI Overviews",
+              "slug": "05_AI互联网/12_产品研究/Google_AI_Overviews"
+            },
+            {
+              "title": "Microsoft Copilot Pages",
+              "slug": "05_AI互联网/12_产品研究/Copilot_Pages"
+            }
+          ]
+        },
+        {
+          "title": "产品：聊天 · 中国应用",
+          "children": [
+            {
+              "title": "ChatGPT 作为互联网入口的演变",
+              "slug": "05_AI互联网/12_产品研究/ChatGPT作为入口"
+            },
+            {
+              "title": "Kimi 探索版",
+              "slug": "05_AI互联网/12_产品研究/Kimi探索版"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "methodology",
+      "title": "方法论",
+      "titleEn": "Methodology",
+      "icon": "🧭",
+      "color": "from-slate-500 to-zinc-500",
+      "order": 10,
+      "items": [
+        {
+          "title": "基石",
+          "children": [
+            {
+              "title": "如何做一次公司研究",
+              "slug": "99_方法论/如何做一次公司调研"
+            },
+            {
+              "title": "产品调研模板",
+              "slug": "99_方法论/产品调研模板"
+            },
+            {
+              "title": "行业研究框架：SCP · 波特五力 · 价值链",
+              "slug": "99_方法论/行业研究框架"
+            }
+          ]
+        },
+        {
+          "title": "信息源与工具",
+          "children": [
+            {
+              "title": "一手信息源清单：财报 · 招股书 · 访谈 · 播客",
+              "slug": "99_方法论/一手信息源清单"
+            },
+            {
+              "title": "常用行业数据源：Gartner · IDC · 艾瑞",
+              "slug": "99_方法论/行业数据源"
+            },
+            {
+              "title": "用 AI 辅助行业研究的工作流",
+              "slug": "99_方法论/用AI辅助行业研究的工作流"
+            }
+          ]
+        },
+        {
+          "title": "框架库",
+          "children": [
+            {
+              "title": "Wardley Maps：技术演化阶段",
+              "slug": "99_方法论/框架_Wardley_Maps"
+            },
+            {
+              "title": "Hamilton Helmer 7 Powers：护城河七种",
+              "slug": "99_方法论/框架_7_Powers"
+            },
+            {
+              "title": "Commoditize Your Complement：开源战略",
+              "slug": "99_方法论/框架_CYC"
+            },
+            {
+              "title": "Aggregation Theory · Smiling Curve",
+              "slug": "99_方法论/框架_聚合理论"
+            },
+            {
+              "title": "基准率与预期投资（Mauboussin）",
+              "slug": "99_方法论/框架_基准率"
+            },
+            {
+              "title": "Scaling Laws + Compute Overhang",
+              "slug": "99_方法论/框架_Scaling_Laws"
+            },
+            {
+              "title": "颠覆创新 + Jobs-to-be-Done",
+              "slug": "99_方法论/框架_颠覆创新"
+            },
+            {
+              "title": "Crossing the Chasm（跨越鸿沟）",
+              "slug": "99_方法论/框架_跨越鸿沟"
+            },
+            {
+              "title": "BCG Advantage Matrix",
+              "slug": "99_方法论/框架_BCG_Advantage"
+            },
+            {
+              "title": "VRIO / RBV：资源视角",
+              "slug": "99_方法论/框架_VRIO"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
