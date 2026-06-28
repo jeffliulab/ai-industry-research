@@ -65,4 +65,4 @@
 
 ## 姐妹站联动
 
-[AI Notes · 脑机接口](https://jeffliulab.github.io/ai-notes/Brain_Computer_Interface/introduction/) 覆盖技术原理（神经信号处理、解码算法）；本板块覆盖**行业 / 公司 / 产品**维度。
+[AI Notes · 脑机接口](https://jeffliulab.github.io/neuro-sci-notes/) 覆盖技术原理（神经信号处理、解码算法）；本板块覆盖**行业 / 公司 / 产品**维度。
